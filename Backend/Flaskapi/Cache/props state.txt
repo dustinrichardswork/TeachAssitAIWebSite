@@ -1,0 +1,94 @@
+#Title: Props State
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Props State
+2. Definition and Purpose
+3. Syntax and Usage
+4. Example 1: Using Props
+5. Example 2: Using State
+6. Pros and Cons
+7. Best Practices
+8. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: In this presentation, you will learn:
+- The purpose and importance of using props and state in React
+- How to define and use props in React components
+- How to define and use state in React components
+- The pros and cons of using props and state
+- Best practices for using props and state effectively
+
+#Slide: 3
+#Header: Success Criteria
+#Content:
+After this presentation, you will be able to:
+- Explain the purpose of props and state in React
+- Define and use props in React components
+- Define and use state in React components
+- Compare and contrast the advantages and disadvantages of using props and state
+- Apply best practices for using props and state in React applications
+
+#Slide: 4
+#Header: Introduction to Props State
+#Content: 
+- Props and state are important concepts in React for managing data in components
+- They allow data to be passed from parent to child components (props) or stored and managed within a component (state)
+- Props and state enable dynamic and interactive components in React applications
+
+#Slide: 5
+#Header: Definition and Purpose
+#Content: 
+- Props (short for properties) are read-only data passed from a parent component to a child component
+- State is mutable data that is stored and managed within a component
+- Props are used for passing data and event handlers down the component tree
+- State is used for managing the internal data and re-rendering the component when it changes
+
+#Slide: 6
+#Header: Syntax and Usage
+#Content: 
+- Props are passed to child components as attributes in JSX
+- Child components access props using the `props` object, e.g., `this.props`
+- State is initialized in the constructor of a class component using `this.state = { }`
+- State can be updated using the `setState` method, triggering a re-render of the component
+
+#Slide: 7
+#Header: Example 1: Using Props
+#Content: 
+- Demonstrate how to pass props from a parent component to a child component
+- Explain how the child component can access and use the props passed to it
+- Show a code example of a parent component passing props and a child component using them
+
+#Slide: 8
+#Header: Example 2: Using State
+#Content: 
+- Show how to initialize state in a class component and update it using `setState`
+- Explain how the component automatically re-renders when the state changes
+- Provide a code example of a class component using state and updating it with an event handler
+
+#Slide: 9
+#Header: Pros and Cons
+#Content: 
+- Discuss the advantages and disadvantages of using props and state in React applications
+- Highlight the flexibility and reusability of components with props
+- Mention the complexity and potential performance issues of managing state in larger applications
+
+#Slide: 10
+#Header: Best Practices
+#Content: 
+- Provide guidelines for using props and state effectively in React applications
+- Encourage minimizing the usage of state and lifting it up to higher-level parent components when possible
+- Emphasize the importance of immutability when updating state to avoid bugs
+- Suggest using prop types or TypeScript for type-checking when working with props
+
+#Slide: 11
+#Header: Summary
+#Content: 
+- Props and state are key concepts in React for managing data in components
+- Props are read-only data passed from parent to child components
+- State is mutable data stored and managed within a component
+- Understanding and using props and state effectively is crucial for building dynamic and interactive React applications.
+
+#Slide: END

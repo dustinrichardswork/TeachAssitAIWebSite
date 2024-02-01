@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: white;
+  font-family: "Poppins";
+}
+
+p {
+  color: #394150;
+}
+
+/* Track */
+::-webkit-scrollbar {
+  /* width: 4px; Width of the entire scrollbar */
+  width: 0px; /* Width of the entire scrollbar */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  /* background: rgb(23, 5, 20); Color of the scrollbar handle */
+  background: transparent; /* Color of the scrollbar handle */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  /* background: #b7dede; Color of the scrollbar handle on hover */
+  background: transparent; /* Color of the scrollbar handle on hover */
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  /* background: #a5aeae; Color of the scrollbar track */
+  background: transparent; /* Color of the scrollbar track */
+}
+
+/* Track on hover */
+::-webkit-scrollbar-track:hover {
+  /* background: #ddd; Color of the scrollbar track on hover */
+  background: transparent; /* Color of the scrollbar track on hover */
+}

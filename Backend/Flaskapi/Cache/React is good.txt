@@ -1,0 +1,24 @@
+Slide 1: Understanding React 
+Content: 
+- Introduction to React 
+- Why it is called a 'JavaScript library'
+Keyword: React, Introduction
+
+Slide 2: The Advantages of React 
+Content:
+- Quick rendering using Virtual DOM
+- High flexibility with JSX
+- Component-based structure encourages code reuse 
+Keyword: React Advantages
+
+Slide 3: Getting Hands-On with React 
+Content:
+- Basic requirements to start with React
+- Steps to install and set up a project in React
+Keyword: React Setup
+
+Slide 4: Real-World Applications of React 
+Content:
+- Notable companies using React
+- Different types of projects where React can be aptly used
+Keyword: React Applications

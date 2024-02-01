@@ -1,0 +1,66 @@
+#Title: UNDERSTANDING ANGULAR
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to Angular
+2. Features of Angular
+3. Angular Architecture
+4. Components in Angular
+5. Services in Angular
+6. Modules in Angular
+7. Directives in Angular
+8. Learning Aims
+9. Success Criteria
+10. Quiz
+11. Resources 
+12. Summary
+
+#Slide: 2
+#Header: Introduction to Angular
+#Content: Angular is a prevalent, open-source and highly versatile JavaScript framework used for web applications.
+
+#Slide: 3
+#Header: Features of Angular
+#Content: Angular offers features like two-way binding, modularization, HTTP implementation, dependency injection.
+
+#Slide: 4
+#Header: Angular Architecture
+#Content: It's composed of several parts: modules, components, templates, directives, services, and dependency injection.
+
+#Slide: 5
+#Header: Components in Angular
+#Content: Components are basic building blocks of an Angular application. They control HTML views.
+
+#Slide: 6
+#Header: Services in Angular
+#Content: Services are used to create components which can be shared across the entire application.
+
+#Slide: 7
+#Header: Modules in Angular
+#Content: Modules are a way to organize components, directives, pipes, and services related to the specific application.
+
+#Slide: 8
+#Header: Directives in Angular
+#Content: Directives add behavior to an existing DOM element or an existing component instance.
+
+#Slide: 9
+#Header: LEARNING AIMS
+#Content: By the end of this session, you will acquire an overview of Angular and its important features
+
+#Slide: 10
+#Header: SUCCESS CRITERIA
+#Content: You will be able to define Angular, its features, components, services, modules, and directives.
+
+#Slide: 11
+#Header: Quiz
+#Content: Quick task! Create a Single Page Application (SPA) using Angular basics.
+
+#Slide: 12
+#Header: Resources 
+#Content: Visit Angular official website (angular.io) for more learning resources.
+
+#Slide: 13
+#Headers: Summary
+#Content: Today we learned the basics of Angular; a powerful platform for building web applications.
+
+#Slide: END

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkteachai=self.webpackChunkteachai||[]).push([[528],{1528:function(e,a,c){c.r(a);c(2791);var n=c(184);a.default=function(){return(0,n.jsx)("div",{children:"Cancel"})}}}]);
+//# sourceMappingURL=528.841a54fd.chunk.js.map

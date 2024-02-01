@@ -1,0 +1,94 @@
+#Title: React Context Provider
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. What is a Context Provider?
+2. How does a Context Provider work?
+3. Why use a Context Provider?
+...
+
+#Slide: 2
+#Header: Learning Aims
+#Content: By the end of this presentation, you will learn:
+1. What a Context Provider is
+2. How a Context Provider works
+3. The benefits of using a Context Provider in React
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, you will be able to answer:
+1. What is the role of a Context Provider?
+2. How does a Context Provider pass data down the component tree?
+3. When should you use a Context Provider in React?
+
+#Slide: 4
+#Header: What is a Context Provider?
+#Content: A Context Provider is a component in React that allows you to share data with multiple child components, regardless of their depth in the component tree.
+
+#Slide: 5
+#Header: How does a Context Provider work?
+#Content: A Context Provider works by creating a context object, which is then wrapped around components that need access to the shared data. This allows the components to consume the shared data without having to pass it down through props manually.
+
+#Slide: 6
+#Header: Why use a Context Provider?
+#Content: Using a Context Provider can simplify the process of passing data between components, especially when dealing with deeply nested components. It eliminates the need for prop drilling and makes the code more readable and maintainable.
+
+#Slide: 7
+#Header: Creating a Context Provider
+#Content: To create a Context Provider in React, you need to:
+1. Create a new context object using the createContext() function
+2. Wrap the desired components with the Context.Provider component
+3. Pass the shared data as a value prop to the Context.Provider
+
+#Slide: 8
+#Header: Providing Data with a Context Provider
+#Content: The data provided by a Context Provider can be any JavaScript value, such as an object, an array, or a primitive datatype. This data will be accessible to all the child components of the Context.Provider.
+
+#Slide: 9
+#Header: Consuming Data from a Context Provider
+#Content: To consume the data provided by a Context Provider, a component needs to use the useContext hook and provide the context object as an argument. This hook allows the component to access the shared data directly.
+
+#Slide: 10
+#Header: Multiple Context Providers
+#Content: It is possible to have multiple Context Providers in a React application. Each context provider manages its own set of shared data, making it easy to organize and share data across different areas of the application.
+
+#Slide: 11
+#Header: Context.Consumer
+#Content: In addition to the useContext hook, React also provides a Context.Consumer component that allows components to consume the shared data. This may be useful when working with class components or when needing more fine-grained control over when and how the data is consumed.
+
+#Slide: 12
+#Header: Context Provider Best Practices
+#Content: When using a Context Provider in React, it is important to:
+1. Only provide the necessary data to avoid unnecessary re-renders
+2. Avoid nesting too many layers of Context Providers as it can negatively impact performance
+3. Consider using a default value to handle cases where a Context Provider is not present
+
+#Slide: 13
+#Header: When to Use a Context Provider
+#Content: You should consider using a Context Provider in React when:
+1. Multiple components need access to the same data
+2. The data needs to be accessible to deeply nested components
+3. Prop drilling becomes complex and hard to maintain
+
+#Slide: 14
+#Header: Example: Using a Context Provider
+#Content: Here is an example of how to use a Context Provider in React to share a theme across the application. Code snippet and explanation.
+
+#Slide: 15
+#Header: Performance Considerations
+#Content: While using a Context Provider can provide convenience, it is important to be mindful of performance. Be cautious when updating the shared data frequently, as it may cause unnecessary re-renders.
+
+#Slide: 16
+#Header: Conclusion
+#Content: In conclusion, a Context Provider in React allows for easy sharing of data between components, eliminating the need for prop drilling. It simplifies the code and improves readability, especially in complex applications.
+
+#Slide: 17
+#Header: Review Questions
+#Content: 1. What is the role of a Context Provider in React?
+2. How does a Context Provider work?
+3. When should you use a Context Provider in React?
+
+#Slide: 18
+#Header: Summary
+#Content: In this presentation, we learned about Context Providers in React. We explored how they work, their benefits, and when to use them. We also discussed best practices and performance considerations. Remember to use Context Providers wisely to improve code organization and maintainability.

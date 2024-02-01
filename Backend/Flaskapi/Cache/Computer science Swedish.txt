@@ -1,0 +1,117 @@
+#Title: DATORVETENSKAP PÅ SVENSKA
+
+#Slide: 1
+#Header: Innehåll
+#Content: 
+1. Om datorvetenskap
+2. Programmering
+3. Datornätverk
+4. Datastrukturer
+5. Algoritmer
+6. Webbdesign
+7. Databashantering
+8. Artificiell intelligens (AI)
+9. Kryptografi
+10. Sammanfattning
+
+#Slide: 2
+#Header: Lärandemål
+#Content: 
+Efter denna presentation kommer du att lära dig:
+- Vad datorvetenskap handlar om
+- Grundläggande programmeringskoncept
+- Hur datornätverk fungerar
+- Olika datastrukturer och algoritmer
+- Grunderna i webbdesign
+- Grundläggande databashantering
+- Vad artificiell intelligens (AI) är
+- Grunderna i kryptografi
+- Översikt över ämnet
+
+#Slide: 3
+#Header: Framgångskriterier
+#Content: 
+Efter att ha gått igenom denna presentation kommer du att kunna svara på följande frågor:
+- Vad är datorvetenskap?
+- Vad är de grundläggande programmeringskoncepten?
+- Hur fungerar datornätverk?
+- Vilka olika datastrukturer och algoritmer finns det?
+- Vad är webbdesign och hur skapar man en enkel webbsida?
+- Vad är databashantering och hur fungerar det?
+- Vad är artificiell intelligens (AI) och vad används det till?
+- Vad är kryptografi och varför är det viktigt?
+- Vad har vi lärt oss om datorvetenskap på svenska?
+
+#Slide: 4
+#Header: Datorvetenskap
+#Content: 
+- Studien av beräkning och information
+- Inbegriper programmering, algoritmer, datastrukturer och mer
+- Både teoretisk och praktisk tillämpning
+- Används inom många områden som AI, webbutveckling och databashantering
+
+#Slide: 5
+#Header: Programmering
+#Content: 
+- Processen att skapa och skriva kod för att utföra uppgifter på en dator
+- Grundläggande koncept inkluderar variabler, villkor och loopar
+- Vanliga programmeringsspråk inkluderar Java, Python och C++
+- Används för att skapa appar, webbplatser och mycket mer
+
+#Slide: 6
+#Header: Datornätverk
+#Content: 
+- En samling av sammankopplade enheter som kan kommunicera med varandra
+- Används för att dela data, resurser och informationsutbyte
+- Exempel inkluderar internet och lokala nätverk (LAN)
+
+#Slide: 7
+#Header: Datastrukturer
+#Content: 
+- Sätt att organisera och lagra data på en dator
+- Exempel inkluderar listor, stackar och köer
+- Viktigt för att hantera och manipulera data effektivt
+
+#Slide: 8
+#Header: Algoritmer
+#Content: 
+- En uppsättning instruktioner för att lösa ett problem eller utföra en uppgift
+- Exempel inkluderar sortering och sökalgoritmer
+- Används för att effektivisera och automatisera processer
+
+#Slide: 9
+#Header: Webbdesign
+#Content: 
+- Skapandet och utformningen av webbsidor
+- Involverar HTML, CSS och ibland JavaScript
+- Viktigt att skapa användarvänliga och tilltalande webbsidor
+
+#Slide: 10
+#Header: Databashantering
+#Content: 
+- Hantering och organisering av stora mängder data
+- Används för att lagra, söka och manipulera data
+- Inkluderar SQL (Structured Query Language) för att kommunicera med databaser
+
+#Slide: 11
+#Header: Artificiell intelligens (AI)
+#Content: 
+- Simulering av mänsklig intelligens i datorer och maskiner
+- Används för att lösa komplexa problem och ta beslut
+- Exempel inkluderar chatbots och maskininlärning
+
+#Slide: 12
+#Header: Kryptografi
+#Content: 
+- Säkerställer konfidentialitet och integritet för data
+- Används för att kryptera och dekryptera information
+- Viktigt för att skydda känslig data och säker kommunikation
+
+#Slide: 13
+#Header: Sammanfattning
+#Content: 
+- Vi har utforskat olika områden inom datorvetenskap på svenska
+- Förstått grundläggande koncept inom programmering, nätverk och mer
+- Förhoppningsvis fått en översikt över ämnet och dess tillämpningar
+
+#Slide: END

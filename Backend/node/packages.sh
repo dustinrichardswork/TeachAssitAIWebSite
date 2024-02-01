@@ -1,0 +1,1 @@
+npm i cookie-parser dotenv mongoose express body-parser bcryptjs

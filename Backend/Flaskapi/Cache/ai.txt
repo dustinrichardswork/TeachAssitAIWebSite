@@ -1,0 +1,54 @@
+#Title: Artificial Intelligence (AI)
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to AI
+2. Applications of AI
+3. Types of AI
+4. Impact of AI
+5. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: By the end of this presentation, you will learn:
+- What is AI and its applications
+- Different types of AI
+- The impact of AI in various fields
+
+#Slide: 3
+#Header: Success Criteria
+#Content: After this presentation, you will be able to answer:
+- What is AI and how is it used?
+- What are the different types of AI?
+- How does AI impact different industries?
+
+#Slide: 4
+#Header: Introduction to AI
+#Content: - AI refers to the simulation of human intelligence in machines.
+- It involves the development of computer systems that can perform tasks that would typically require human intelligence.
+- AI has wide-ranging applications in industries such as healthcare, finance, and transportation.
+
+#Slide: 5
+#Header: Applications of AI
+#Content: - AI is used in voice recognition systems like Siri and Alexa.
+- It powers recommendation algorithms used by platforms like Netflix and Spotify.
+- AI is also used in autonomous vehicles, chatbots, and fraud detection systems.
+
+#Slide: 6
+#Header: Types of AI
+#Content: - There are three types of AI: narrow AI, general AI, and superintelligent AI.
+- Narrow AI focuses on specific tasks, while general AI can perform any intellectual task a human can.
+- Superintelligent AI surpasses human intelligence and can outperform humans in most economically valuable work.
+
+#Slide: 7
+#Header: Impact of AI
+#Content: - AI has the potential to revolutionize various industries, improving efficiency and accuracy.
+- It can lead to job displacement but also creates new job opportunities.
+- AI is transforming healthcare, transportation, education, and many other sectors.
+
+#Slide: 8
+#Header: Summary
+#Content: - AI is the simulation of human intelligence in machines.
+- It has diverse applications and can perform tasks like voice recognition, recommendation algorithms, and autonomous driving.
+- There are different types of AI, including narrow AI, general AI, and superintelligent AI.
+- The impact of AI spans across industries, leading to increased efficiency and new job opportunities.

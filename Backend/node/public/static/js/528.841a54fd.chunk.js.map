@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/528.841a54fd.chunk.js","mappings":"mIAQA,UANe,WACb,OACEA,EAAAA,EAAAA,KAAA,OAAAC,SAAK,UAET,C","sources":["components/Stripe/Cancel.jsx"],"sourcesContent":["import React from 'react'\n\nconst Cancel = () => {\n  return (\n    <div>Cancel</div>\n  )\n}\n\nexport default Cancel"],"names":["_jsx","children"],"sourceRoot":""}

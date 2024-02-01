@@ -1,0 +1,145 @@
+#Title: Props Hook Lifecycle
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Props Hook Lifecycle
+2. Learning Aims
+3. Success Criteria
+4. Props in React
+5. What is the Hook?
+6. useState Hook
+7. useEffect Hook
+8. useLayoutEffect Hook
+9. useMemo Hook
+10. useCallback Hook
+11. useRef Hook
+12. useContext Hook
+13. Custom Hooks
+14. Example: Using Props and Hooks
+15. Tips and Best Practices
+16. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+- Understand the concept of props in React
+- Explore the different hooks available in React
+- Learn how to use each hook effectively
+- Gain knowledge on when and where to use specific hooks
+- Apply the knowledge to create a functional and efficient component using props and hooks.
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+By the end of this presentation, you will be able to:
+- Explain the concept of props in React
+- Identify and describe the purpose of each hook
+- Use the useState hook to manage state in functional components
+- Utilize the useEffect hook to implement side effects
+- Apply the useLayoutEffect hook for layout-specific effects
+- Understand the need for useMemo and useCallback hooks for performance optimization
+- Demonstrate the use of the useRef hook to reference elements
+- Utilize the useContext hook for accessing shared information
+- Create custom hooks for reuse
+- Apply the learned concepts to build a functional component using props and hooks.
+
+#Slide: 4
+#Header: Props in React
+#Content: 
+- Props are short for properties and are used to pass data from one component to another in React.
+- Props are read-only and should not be modified directly within the component.
+- Each component has their own props received from the parent component, defining the component's behavior.
+
+#Slide: 5
+#Header: What is the Hook?
+#Content: 
+- Hooks are functions that allow you to use React features in functional components.
+- Introduced in React 16.8, Hooks provide an alternative to writing class components for managing state and side effects.
+- They are essential for developing complex and reusable logic within functional components.
+
+#Slide: 6
+#Header: useState Hook
+#Content: 
+- useState is a hook used for managing state in functional components.
+- It takes an initial value and returns an array with the current state and a function to update the state.
+- Example usage: const [count, setCount] = useState(0); where count is the current state and setCount is the function to update it.
+
+#Slide: 7
+#Header: useEffect Hook
+#Content:
+- useEffect is a hook used for implementing side effects in functional components.
+- It runs after rendering and allows performing tasks like data fetching, subscriptions, or manually changing the DOM.
+- Example usage: useEffect(() => { /* side effect code */ }, [dependency]); where the dependency array specifies when to run the effect.
+
+#Slide: 8
+#Header: useLayoutEffect Hook
+#Content:
+- useLayoutEffect is similar to useEffect, but it runs synchronously after all DOM mutations.
+- It is useful for performing DOM mutations or measurements before the browser repaints.
+- Example usage: useLayoutEffect(() => { /* layout effect code */ }, [dependency]);
+
+#Slide: 9
+#Header: useMemo Hook
+#Content:
+- useMemo is a hook used for performance optimization by memoizing expensive calculations.
+- It ensures that the calculations are only performed when the dependencies change.
+- Example usage: const memoizedValue = useMemo(() => calculateExpensiveValue(a, b), [a, b]);
+
+#Slide: 10
+#Header: useCallback Hook
+#Content:
+- useCallback is a hook used for performance optimization by memoizing functions.
+- It returns a memoized version of the callback function that only changes if the dependencies change.
+- Example usage: const memoizedCallback = useCallback(() => { /* callback implementation */ }, [dependency]);
+
+#Slide: 11
+#Header: useRef Hook
+#Content:
+- useRef is a hook used for accessing and storing mutable values that persist across renders.
+- It returns a mutable ref object that can hold any value.
+- Example usage: const ref = useRef(initialValue);
+
+#Slide: 12
+#Header: useContext Hook
+#Content:
+- useContext is a hook used for accessing values from a React context.
+- It allows accessing shared information without the need for prop drilling.
+- Example usage: const value = useContext(MyContext);
+
+#Slide: 13
+#Header: Custom Hooks
+#Content:
+- Custom Hooks are functions that use other hooks and provide a specific functionality.
+- They allow the reuse of common stateful or reusable logic across different components.
+- Example usage: function useCustomHook() { /* custom hook implementation */ }
+
+#Slide: 14
+#Header: Example: Using Props and Hooks
+#Content:
+- Show an example of a functional component using props to receive data and different hooks to manage state and perform side effects.
+- Explain how the props are passed down from the parent component and utilized within the functional component using various hooks.
+
+#Slide: 15
+#Header: Tips and Best Practices
+#Content:
+- Provide best practices for using props and hooks effectively:
+  - Keep components small and focused.
+  - Use props to pass data and hooks to manage state.
+  - Use the appropriate hook for the desired functionality.
+  - Avoid unnecessary re-renders with useMemo and useCallback.
+  - Utilize the useRef hook for accessing DOM elements.
+  - Use useContext to access shared data.
+  - Follow naming conventions and code readability guidelines.
+
+#Slide: 16
+#Header: Summary
+#Content:
+- Recap the main points discussed in the presentation:
+  - Props in React: pass data from one component to another.
+  - Hooks in React: functions for adding features to functional components.
+  - Various hooks available: useState, useEffect, useLayoutEffect, useMemo, useCallback, useRef, useContext.
+  - Custom hooks: allow for reusable and stateful logic across components.
+  - Best practices: keep components small, use appropriate hooks, optimize performance with useMemo and useCallback.
+
+#Slide: END

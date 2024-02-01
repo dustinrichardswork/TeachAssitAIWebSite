@@ -1,0 +1,72 @@
+Slide 1: Introduction to React
+Content: 
+- Definition of React
+- Brief history and creation of React
+- Importance of React in modern web development
+Keyword: React Introduction
+
+Slide 2: React Philosophy
+Content:
+- Explanation of React’s philosophy
+- Unidirectional data flow
+- Importance of component-based architecture
+Keyword: React Philosophy
+
+Slide 3: JSX in React
+Content:
+- Explanation of JSX
+- Importance and benefits of using JSX in React
+Keyword: JSX 
+
+Slide 4: React Components
+Content:
+- Definition and explanation of React components
+- Different types of components 
+- Explanation of importance in modular development 
+Keyword: Components
+
+Slide 5: React Props
+Content: 
+- Explanation of React props 
+- Passing and receiving props in components 
+- Usage of props in component reusability
+Keyword: Props
+
+Slide 6: React State
+Content:
+- Explanation of React state 
+- State manipulation within components 
+- Differences between state and props
+Keyword: State
+
+Slide 7: React Lifecycle
+Content:
+- Explanation of React lifecycle methods 
+- Different stages of a component lifecycle(Key mounting, updating, unmounting)
+Keyword: Lifecycle 
+
+Slide 8: React Hooks
+Content:
+- Introduction to React hooks
+- Explanation of useState and useEffect hooks
+- Usage scenarios and benefits of hooks
+Keyword: Hooks
+
+Slide 9: Conditional Rendering 
+Content:
+- Explanation of conditional rendering in React
+- Examples of different ways to conditionally render components 
+Keyword: Conditional Rendering 
+
+Slide 10: React Router
+Content:
+- Introduction to React Router
+- Explanation and implementation of routing in a React application 
+Keyword: Routing
+
+Slide 11: Conclusion
+Content:
+- Summary of the covered topics
+- Importance and benefits of using React 
+- Encouragement for further study
+Keyword: Conclusion

@@ -1,0 +1,83 @@
+#Title: Derivative
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Derivative
+2. Definition of Derivative
+3. Notation and Terminology
+4. Basic Derivative Rules
+5. Derivatives of Common Functions
+6. Higher Order Derivatives
+7. Applications of Derivatives
+8. Derivative of Composite Functions
+9. Derivative of Implicit Functions
+10. Derivative of Logarithmic Functions
+11. Summary
+12. References
+
+#Slide: 2
+#Header: Learning Aims
+#Content: By the end of this presentation, students will learn:
+- What a derivative is and its significance
+- How to calculate derivatives using different rules
+- The applications of derivatives in various fields
+- How to find derivatives of composite and implicit functions
+- How to find derivatives of logarithmic functions
+
+#Slide: 3
+#Header: Success Criteria
+#Content: After this presentation, students will be able to answer:
+1. What is a derivative and why is it important in calculus?
+2. How do we calculate derivatives using different rules?
+3. In which situations can we use derivatives for practical applications?
+4. How do we find the derivative of composite and implicit functions?
+5. What is the derivative of logarithmic functions?
+
+#Slide: 4
+#Header: Introduction to Derivative
+#Content: The derivative measures how a function changes as its input changes. It provides information about the slope or rate of change of a function at any given point. Derivatives are fundamental in calculus and have various applications in mathematics, science, and engineering.
+
+#Slide: 5
+#Header: Definition of Derivative
+#Content: The derivative of a function at a specific point is defined as the limit of the rate of change of the function as the change in input approaches zero. Symbolically, it is represented as the ratio of the change in output to the change in input.
+
+#Slide: 6
+#Header: Notation and Terminology
+#Content: In calculus, derivatives are typically denoted using different notations and terminology. The most common notation is f'(x) or dy/dx, representing the derivative of the function f(x) with respect to x. Other notations include Δy/Δx and d/dx[f(x)].
+
+#Slide: 7
+#Header: Basic Derivative Rules
+#Content: There are several rules to calculate derivatives, such as the power rule, product rule, quotient rule, and chain rule. These rules provide shortcuts to find derivatives of different types of functions.
+
+#Slide: 8
+#Header: Derivatives of Common Functions
+#Content: Many common functions have well-known derivatives, such as polynomials, exponential functions, logarithmic functions, trigonometric functions, and their inverses. Memorizing these derivatives can facilitate calculations.
+
+#Slide: 9
+#Header: Higher Order Derivatives
+#Content: A function can have multiple derivatives, known as higher-order derivatives. The second derivative represents the rate of change of the first derivative, and the process can be repeated to find third, fourth, or nth derivatives.
+
+#Slide: 10
+#Header: Applications of Derivatives
+#Content: Derivatives have numerous applications, including optimization, finding extrema, related rates problems, graph sketching, linear approximation, and Newton's method. These applications are vital in physics, economics, engineering, etc.
+
+#Slide: 11
+#Header: Derivative of Composite Functions
+#Content: Composite functions are functions within functions. To find the derivative of a composite function, the chain rule is used. It allows us to differentiate the outer function while multiplying it by the derivative of the inner function.
+
+#Slide: 12
+#Header: Derivative of Implicit Functions
+#Content: Implicit functions are defined implicitly rather than explicitly. To find the derivative of an implicit function, we differentiate both sides of the equation with respect to the variable and solve for the derivative.
+
+#Slide: 13
+#Header: Derivative of Logarithmic Functions
+#Content: Logarithmic functions, such as the natural logarithm, have specific rules to differentiate them. The derivative of the natural logarithm is particularly useful in calculus problems involving exponential growth and decay.
+
+#Slide: 14
+#Header: Summary
+#Content: In this presentation, we covered the basics of derivatives, including their definition, notation, and terminology. We learned about different derivative rules, their applications, and how to find derivatives of composite, implicit, and logarithmic functions. Now you have a solid understanding of derivatives and their role in calculus.
+
+#Slide: 15
+#Header: References
+#Content: List of sources used in this presentation for further reading and exploration.

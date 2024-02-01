@@ -1,0 +1,95 @@
+#Title: React Lifecycle
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. What is React?
+2. What is a Lifecycle?
+3. React Lifecycle Methods
+4. Initialization Phase
+5. Mounting Phase
+6. Updating Phase
+7. Unmounting Phase
+8. Error Handling Phase
+9. Real-World Examples
+10. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: Understand the concept of React and its lifecycle methods.
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, you will be able to:
+- Explain what React is.
+- Define the concept of a lifecycle in React.
+- Identify the different phases in the React lifecycle.
+- Understand the purpose of each lifecycle method.
+- Apply lifecycle methods in real-world examples.
+
+#Slide: 4
+#Header: What is React?
+#Content: React is a JavaScript library for building user interfaces. It allows developers to create reusable UI components and efficiently manage the state of the application.
+
+#Slide: 5
+#Header: What is a Lifecycle?
+#Content: In software development, a lifecycle refers to the sequence of stages from the creation to the completion of a software application. In React, the lifecycle refers to the different phases a component goes through during its existence.
+
+#Slide: 6
+#Header: React Lifecycle Methods
+#Content: React provides a set of built-in methods that are executed at different points in a component's lifecycle. These methods allow us to perform actions at specific stages of a component's existence.
+
+#Slide: 7
+#Header: Initialization Phase
+#Content: In the initialization phase, the component is being created and preparing for the mounting phase. The constructor method is used to initialize the component's state and bind methods.
+
+#Slide: 8
+#Header: Mounting Phase
+#Content: In the mounting phase, the component is being inserted into the DOM. The component is created, rendered, and added to the DOM. The componentDidMount method is called after the component has been mounted.
+
+#Slide: 9
+#Header: Updating Phase
+#Content: In the updating phase, the component's state or props are changed, triggering a re-render. The componentDidUpdate method is invoked after the component has been updated.
+
+#Slide: 10
+#Header: Unmounting Phase
+#Content: In the unmounting phase, the component is being removed from the DOM. The componentWillUnmount method is called before the component is unmounted.
+
+#Slide: 11
+#Header: Error Handling Phase
+#Content: In the error handling phase, if an error is thrown during rendering, the componentDidCatch method is called to handle the error and display a fallback UI.
+
+#Slide: 12
+#Header: Real-World Examples
+#Content: Let's take a look at some real-world examples of how lifecycle methods can be used in React applications.
+
+#Slide: 13
+#Header: Real-World Examples
+#Content: Example 1: Fetching data from an API using componentDidMount.
+#Code example: componentDidMount() {
+#   fetch('https://api.example.com/data')
+#      .then(response => response.json())
+#      .then(data => this.setState({ data }))
+#}
+
+#Slide: 14
+#Header: Real-World Examples
+#Content: Example 2: Updating a component based on props changes using componentDidUpdate.
+#Code example: componentDidUpdate(prevProps) {
+#   if (this.props.someProp !== prevProps.someProp) {
+#      // Perform some action
+#   }
+#}
+
+#Slide: 15
+#Header: Real-World Examples
+#Content: Example 3: Cleaning up resources before unmounting using componentWillUnmount.
+#Code example: componentWillUnmount() {
+#   // Clean up resources (e.g., event listeners, timers)
+#}
+
+#Slide: 16
+#Header: Summary
+#Content: In this presentation, we learned about React and its lifecycle methods. We explored the different phases of the React lifecycle, including initialization, mounting, updating, unmounting, and error handling. We also saw real-world examples of how these lifecycle methods can be used in practice.
+
+#Slide: END

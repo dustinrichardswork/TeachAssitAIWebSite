@@ -1,0 +1,23 @@
+.swiper-button-prev,
+.swiper-button-next {
+  background: none;
+  color: black !important;
+  position: absolute;
+}
+
+.swiper-button-prev {
+  top: 93%;
+  left: 40%;
+}
+
+.swiper-button-next {
+  top: 93%;
+  right: 40%;
+}
+
+@media screen and (max-width: 640px) {
+  .swiper-button-prev,
+  .swiper-button-next {
+    display: none;
+  }
+}

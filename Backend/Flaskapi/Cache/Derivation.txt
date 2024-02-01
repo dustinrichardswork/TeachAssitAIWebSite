@@ -1,0 +1,102 @@
+#Title: Derivation
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. What is Derivation?
+2. Why is Derivation important?
+3. Basic Concepts of Derivation
+4. Rules of Derivation
+5. Differentiation Notation
+6. Applications of Derivation
+7. Derivatives of Common Functions
+8. Higher Order Derivatives
+9. Implicit Differentiation
+10. Related Rates
+11. Optimization
+12. Summary
+13. References
+
+#Slide: 2
+#Header: Learning Aims
+#Content: After this presentation, you will be able to:
+- Understand the concept of derivation
+- Identify the importance of derivation in calculus
+- Apply the rules of derivation
+- Solve optimization and related rate problems using derivation
+- Calculate higher order derivatives
+- Use implicit differentiation
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, you will be able to answer the following questions:
+1. What is derivation and why is it important in calculus?
+2. What are the basic concepts and rules of derivation?
+3. How do you differentiate common functions?
+4. How do you calculate higher order derivatives?
+5. How do you use derivation in optimization and related rate problems?
+
+#Slide: 4
+#Header: What is Derivation?
+#Content: Derivation, also known as differentiation, is a fundamental concept in calculus. It involves finding the rate at which a function changes at a specific point. Derivation is essential for understanding the behavior and properties of functions.
+
+#Slide: 5
+#Header: Why is Derivation important?
+#Content: Derivation helps us analyze how variables affect a function, determine tangent lines, find maximum and minimum values, and solve real-world problems. It allows us to understand and model various phenomena in science, economics, engineering, and more.
+
+#Slide: 6
+#Header: Basic Concepts of Derivation
+#Content: The basic concepts of derivation include the concept of limits, the derivative as the slope of a function, and the concept of differentiability. These concepts form the foundation for understanding and applying the rules of derivation.
+
+#Slide: 7
+#Header: Rules of Derivation
+#Content: The rules of derivation include the power rule, product rule, quotient rule, chain rule, and the rules for trigonometric, exponential, and logarithmic functions. These rules enable us to find the derivative of complex functions.
+
+#Slide: 8
+#Header: Differentiation Notation
+#Content: Differentiation is represented using various notations, such as d/dx, f'(x), or dy/dx. These notations indicate the derivative with respect to the variable x or the rate of change of a function with respect to x.
+
+#Slide: 9
+#Header: Applications of Derivation
+#Content: Derivation has various applications, including finding slopes, calculating velocity and acceleration, solving optimization problems, determining growth rates, and analyzing rates of change in economics and physics.
+
+#Slide: 10
+#Header: Derivatives of Common Functions
+#Content: Certain functions have well-known derivative formulas, such as polynomials, trigonometric functions, exponentials, logarithms, and inverse trigonometric functions. Memorizing these derivative formulas can speed up the derivation process.
+
+#Slide: 11
+#Header: Higher Order Derivatives
+#Content: Higher order derivatives involve taking derivatives of derivatives. They provide information about the rate of change of a function at different levels. For example, the second derivative gives insights into concavity and inflection points.
+
+#Slide: 12
+#Header: Implicit Differentiation
+#Content: Implicit differentiation is used when a function is not explicitly defined in terms of one variable. It involves differentiating both sides of an equation with respect to the variable, treating derivatives of any unknown functions as separate variables.
+
+#Slide: 13
+#Header: Related Rates
+#Content: Related rates problems involve finding the rate at which one quantity changes with respect to another. These problems often involve geometric shapes and the application of derivation rules to calculate the rates of change.
+
+#Slide: 14
+#Header: Optimization
+#Content: Optimization problems focus on finding the maximum or minimum value of a function within a given domain. Derivation helps in solving these problems by finding critical points and determining whether they correspond to maximum or minimum values.
+
+#Slide: 15
+#Header: Summary
+#Content: Derivation is a fundamental concept in calculus that allows us to understand the rate of change of functions, find tangent lines, solve optimization problems, and analyze real-world phenomena. By mastering the rules of derivation and applying them, we can explore various applications and gain valuable insights. 
+
+#Slide: ENDo make informed decisions and find optimal solutions.
+
+#Slide: 15
+#Header: Implicit Differentiation
+#Content: Implicit differentiation is a technique used to find the derivative of implicitly defined functions. It allows us to derive functions where the dependent variable is not explicitly expressed in terms of the independent variable.
+
+#Slide: 16
+#Header: Related Rates and Derivation
+#Content: Derivation is used to solve related rates problems, where multiple variables are changing simultaneously. By applying the rules of derivation, we can determine how these variables are related and find their rates of change.
+
+#Slide: 17
+#Header: Summary
+#Content: In summary, derivation is a fundamental concept in calculus that allows us to calculate rates of change, analyze functions, and solve a wide range of real-world problems. By understanding the definition, rules, and applications of derivation, we can solve complex calculus problems with confidence.
+
+#Slide: 18
+#Header: References
+#Content: Include a list of references used in the presentation, such as textbooks, online resources, and academic papers.

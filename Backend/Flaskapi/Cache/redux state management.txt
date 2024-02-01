@@ -1,0 +1,74 @@
+#Title: Redux State Management
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Redux
+2. Why Use Redux?
+3. Redux Concepts
+4. How Redux Works
+5. Redux in Action
+6. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+- Understand the concept of Redux
+- Learn why Redux is used in React applications
+- Familiarize yourself with key Redux concepts
+- Understand how Redux works in practice
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+- What is Redux and how does it work?
+- Why is Redux used in React applications?
+- Explain key Redux concepts: actions, reducers, and store
+- Demonstrate how Redux is used in a React application
+
+#Slide: 4
+#Header: Introduction to Redux
+#Content: 
+- Redux is a state management library for JavaScript applications.
+- It helps manage the state of an application in a predictable way.
+- Redux follows a single source of truth principle.
+
+#Slide: 5
+#Header: Why Use Redux?
+#Content: 
+- Redux helps manage complex application states.
+- It provides a centralized store for all application data.
+- Redux improves code organization and maintainability.
+- It enables easy debugging and testing.
+
+#Slide: 6
+#Header: Redux Concepts
+#Content: 
+- Actions: describe what happened in the application.
+- Reducers: specify how the state changes in response to actions.
+- Store: holds the application state and provides methods to interact with it.
+
+#Slide: 7
+#Header: How Redux Works
+#Content: 
+- Actions are dispatched from components.
+- Reducers receive the actions and update the state.
+- The updated state is stored in a centralized store.
+- Components can subscribe to the store to access the state.
+
+#Slide: 8
+#Header: Redux in Action
+#Content: 
+- Demonstrate a practical example of Redux in a React application.
+- Show how actions are dispatched and handled by reducers.
+- Explain how the state is updated and accessed through the store.
+
+#Slide: 9
+#Headers: Summary
+#Content: 
+- Redux is a powerful state management library for JavaScript applications.
+- It helps manage complex application states in a predictable way.
+- Redux uses actions, reducers, and a store to update and access the state.
+- Understanding Redux is essential for building scalable React applications.
+
+#Slide: END

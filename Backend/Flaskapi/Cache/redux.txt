@@ -1,0 +1,35 @@
+Slide 1: Introduction to Redux 
+/n Content: 
+/n Redux is a predictable state container designed to help you write JavaScript applications that behave consistently across client, server, and native environments. It imposes certain constraints to ensure predictability, streamlined logic, and ease of testing in your application – an essential aspect for larger complex systems. Its core principles include a single immutable state, actions as the only modifiers of that state, purely synchronous updates, and reducers that tie actions and states together.
+/n Keyword: 
+/n Redux Introduction
+
+Slide 2: Key Principles of Redux
+/n Content: 
+/n Redux follows three key principles: Single source of truth, state read-only, changes made with pure functions. Having a single source of truth makes the state predictable. The state is kept read-only to ensure actions modify the state through reducers – pure functions that define how actions transform one state into another.
+/n Keyword: 
+/n Principles of Redux
+
+Slide 3: Actions in Redux 
+/n Content: 
+/n Actions in Redux are payloads of information that dictate the changes to the state of the application. They are the sole means of sending data from the application to the Redux store. Actions are dispatched by the store and passed to the reducers which in turn updates the state.
+/n Keyword: 
+/n Redux Actions
+
+Slide 4: Reducers in Redux 
+/n Content: 
+/n Reducers in Redux are pure functions that define how the state of the application changes in response to the actions dispatched to the store. They receive the current state and action, and return a new state, resulting in a predictable state transition, without direct mutations.
+/n Keyword: 
+/n Redux Reducers
+
+Slide 5: Redux Store
+/n Content: 
+/n The Redux store brings together the actions, reducers and the state. It provides methods to dispatch actions, register listeners and helps in state management. With Redux, a single store manages the state of the entire application which simplifies data flow and state manipulation.
+/n Keyword: 
+/n Redux Store
+
+Slide 6: Advantages of Redux
+/n Content: 
+/n Redux offers numerous benefits such as predictable state updates, centralized state management, serialized and replayable actions which enhances testing capabilities and debugging, and its ecosystem of middleware for managing side effects.
+/n Keyword: 
+/n Redux Advantages

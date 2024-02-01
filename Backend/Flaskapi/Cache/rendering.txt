@@ -1,0 +1,64 @@
+#Title: React Basics
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to React
+2. React Components
+3. JSX - JavaScript XML
+4. State and Props
+5. React Lifecycle Methods
+6. Handling Events in React
+7. React Forms
+8. React Routing
+9. React Hooks
+10. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: In this presentation, you will learn the basics of React and how to build interactive web applications using this JavaScript library.
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, you will be able to:
+- Understand the core concepts of React
+- Create functional React components
+- Use JSX syntax to build user interfaces
+- Manage state and props in React
+- Utilize React's lifecycle methods
+- Handle events in React
+- Implement forms in React
+- Navigate between different pages using React Router
+- Use React Hooks for more efficient development
+
+#Slide: 4
+#Header: Introduction to React
+#Content: React is a JavaScript library used for building user interfaces. It allows developers to create reusable UI components and efficiently update them based on changes in data.
+
+#Slide: 5
+#Header: React Components
+#Content: React components are the building blocks of a React application. They encapsulate both the appearance and behavior of a specific part of the user interface.
+
+#Slide: 6
+#Header: JSX - JavaScript XML
+#Content: JSX is a syntax extension for JavaScript that allows you to write HTML-like code within JavaScript. It helps to create React elements easily and efficiently.
+
+#Slide: 7
+#Header: State and Props
+#Content: State and props are two important concepts in React. State represents the internal data of a component, whereas props are used to pass data from a parent component to its children.
+
+#Slide: 8
+#Header: React Lifecycle Methods
+#Content: React provides a set of lifecycle methods that allow you to control how components behave at different stages of their lifecycle, such as initialization, rendering, updating, and unmounting.
+
+#Slide: 9
+#Header: Handling Events in React
+#Content: React provides a simple yet powerful way to handle events within components. You can attach event handlers to specific elements and define custom functions to handle those events.
+
+#Slide: 10
+#Header: React Forms
+#Content: Building forms in React involves managing the state of form inputs and handling user input. React provides various techniques to simplify form handling and validation.
+
+#Slide: END
+#Header: Summary
+#Content: In this presentation, we covered the basics of React, including components, JSX, state and props, lifecycle methods, event handling, forms, React Router, and React Hooks. With this knowledge, you are now equipped to start building interactive web applications using React. Happy coding!

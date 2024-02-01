@@ -1,0 +1,93 @@
+#Title: Consumer Behaviour Theory
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Consumer Behaviour Theory
+2. Factors Influencing Consumer Behaviour
+3. Consumer Decision-Making Process
+4. Theoretical Models of Consumer Behaviour
+5. Perception and Consumer Behaviour
+6. Attitudes and Consumer Behaviour
+7. Motivation and Consumer Behaviour
+8. Personality and Consumer Behaviour
+9. Group Influence on Consumer Behaviour
+10. Culture and Consumer Behaviour
+11. The Role of Marketing in Influencing Consumer Behaviour
+12. Ethical and Social Responsibility in Consumer Behaviour
+13. Understanding Consumer Behaviour Through Market Research
+14. Case Studies on Consumer Behaviour
+15. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: Students will learn about the fundamental concepts and theories of consumer behaviour, and how various factors influence consumer decision-making.
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, students will be able to:
+1. Explain the factors influencing consumer behaviour
+2. Describe the consumer decision-making process
+3. Understand the theoretical models of consumer behaviour
+
+#Slide: 4
+#Header: Introduction to Consumer Behaviour Theory
+#Content: Consumer behaviour theory studies how individuals, groups, and organizations make decisions about acquiring and using goods and services.
+
+#Slide: 5
+#Header: Factors Influencing Consumer Behaviour
+#Content: Consumer behaviour is influenced by various factors such as cultural, social, personal, and psychological factors.
+
+#Slide: 6
+#Header: Consumer Decision-Making Process
+#Content: The consumer decision-making process includes problem recognition, information search, evaluation of alternatives, purchase decision, and post-purchase evaluation.
+
+#Slide: 7
+#Header: Theoretical Models of Consumer Behaviour
+#Content: The Fishbein Model, the Theory of Reasoned Action, and the Theory of Planned Behaviour are some of the theoretical models used to explain consumer behaviour.
+
+#Slide: 8
+#Header: Perception and Consumer Behaviour
+#Content: Perception refers to how individuals interpret and organize the stimuli they encounter. It plays a vital role in consumer decision-making.
+
+#Slide: 9
+#Header: Attitudes and Consumer Behaviour
+#Content: Attitudes are evaluations that individuals hold about various products, services, or brands. They influence consumer behaviour.
+
+#Slide: 10
+#Header: Motivation and Consumer Behaviour
+#Content: Motivation is the internal driving force that stimulates individuals to fulfill their needs and desires, impacting their consumer behaviour.
+
+#Slide: 11
+#Header: Personality and Consumer Behaviour
+#Content: Personality traits influence individuals' preferences and consumption patterns, leading to different consumer behaviours.
+
+#Slide: 12
+#Header: Group Influence on Consumer Behaviour
+#Content: The opinions, recommendations, and behaviour of reference groups, family, and friends can significantly impact consumer decisions.
+
+#Slide: 13
+#Header: Culture and Consumer Behaviour
+#Content: Culture encompasses the shared beliefs, values, customs, and behaviours of a group. It influences consumers' product preferences and purchase decisions.
+
+#Slide: 14
+#Header: The Role of Marketing in Influencing Consumer Behaviour
+#Content: Marketing strategies and tactics aim to influence consumer behaviour through various techniques such as advertising, branding, and product design.
+
+#Slide: 15
+#Header: Ethical and Social Responsibility in Consumer Behaviour
+#Content: Ethical and socially responsible businesses consider the impact of their products, services, and marketing activities on consumers and society.
+
+#Slide: 16
+#Header: Understanding Consumer Behaviour Through Market Research
+#Content: Market research involves gathering and analyzing data to understand consumers' preferences, attitudes, and behaviours, helping businesses develop effective strategies.
+
+#Slide: 17
+#Header: Case Studies on Consumer Behaviour
+#Content: Examining real-world case studies provides practical insights into how consumer behaviour theory applies to different industries and scenarios.
+
+#Slide: 18
+#Header: Summary
+#Content: In summary, consumer behaviour theory provides a framework to understand how and why consumers make decisions. It considers various factors influencing consumer behaviour and helps businesses develop marketing strategies to meet consumers' needs and desires.
+
+#Slide: END

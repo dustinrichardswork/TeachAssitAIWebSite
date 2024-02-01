@@ -1,0 +1,13 @@
+asterisk_required_field {
+  position: relative;
+}
+.asterisk_required_field::after {
+  content: ' *';
+  color: red;
+  position: absolute;
+  /* margin: 2px 0px 0px 0px; */
+  font-size: 20px;
+  padding: 0 5px 0 0;
+  right: 0;
+  top: 0;
+}

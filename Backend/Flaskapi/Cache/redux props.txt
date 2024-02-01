@@ -1,0 +1,82 @@
+#Title: Understanding Redux Props in React
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to Redux
+2. Overview of Props in React
+3. Connection between Redux and Props
+4. Working with Redux Props in React
+5. Examples
+6. Common Issues
+7. Recommendations
+8. Summary
+
+#Slide: 2
+#Header: LEARNING AIMS
+#Content: By the end of this presentation, you should understand what Redux props are, how they work, and how to use them in a React application.
+
+#Slide: 3
+#Header: SUCCESS CRITERIA
+#Content: You'll be able to define Redux props, demonstrate how they work with React components, and resolve potential issues that might arise from using Redux props.
+
+#Slide: 4
+#Header: Introduction to Redux
+#Content: Redux is a predictable state container for JavaScript apps. It helps you manage the state of your application.
+
+#Slide: 5
+#Header: Overview of Props in React
+#Content: "Props" is a special keyword in React, standing for properties. They are used for passing data from one component to another.
+
+#Slide: 6
+#Header: Connection between Redux and Props
+#Content: Redux provides a state to the whole app and any component in the application can access any state property via props.
+
+#Slide: 7
+#Header: Working with Redux Props in React - Part 1
+#Content: To use Redux props in React, you first import the necessary Redux functions. 
+
+#Slide: 8
+#Header: Working with Redux Props in React - Part 2
+#Content: Then you define your state and actions in Redux. 
+
+#Slide: 9
+#Header: Working with Redux Props in React - Part 3
+#Content: You connect Redux to your React component and map the state and actions to props.
+
+#Slide: 10
+#Header: Examples
+#Content: Now let's look at some examples of using Redux props in a React application. 
+
+#Slide: 11
+#Header: Example - Counter App - Part 1
+#Content: We will be building a simple counter app which uses Redux props.
+
+#Slide: 12
+#Header: Example - Counter App - Part 2
+#Content: First, we'll define our Redux state and actions for incrementing and decrementing the counter.
+
+#Slide: 13
+#Header: Example - Counter App - Part 3
+#Content: Next, we connect Redux to our counter component and map the state and actions to props.
+
+#Slide: 14
+#Header: Common Issues
+#Content: Common problems include attempting to mutate the state directly, not connecting the Redux store, etc.
+
+#Slide: 15
+#Header: Recommendations
+#Content: Always plan your state ahead of implementation, avoid mutating state directly, use mapStateToProps() and mapDispatchToProps().
+
+#Slide: 16
+#Header: Quick Recap - Part 1
+#Content: Redux is a state container. Props are used for passing data. Redux props allow state and actions to be accessed via props.
+
+#Slide: 17
+#Header: Quick Recap - Part 2
+#Content: Issues can arise from improper uses of Redux and direct state mutation. Good practices can help to avoid these issues.
+
+#Slide: 18
+#Header: Summary
+#Content: We have learned what Redux props are, and how to use them in a React application. Practice with different apps to solidify your understanding.
+
+#Slide: END

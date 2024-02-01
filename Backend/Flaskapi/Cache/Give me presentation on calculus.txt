@@ -1,0 +1,116 @@
+#Title: Calculus
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Basics of Calculus
+2. Differentiation
+3. Integration
+4. Applications of Calculus
+5. Limits
+6. Continuity
+7. Derivative Rules
+8. Anti-Derivatives
+9. Fundamental Theorem of Calculus
+10. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+- Understand the basics of calculus
+- Learn differentiation and integration techniques
+- Explore the applications of calculus
+- Understand limits and continuity
+- Learn derivative rules and anti-derivatives
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+By the end of this presentation, students will be able to:
+- Define calculus and its significance
+- Differentiate functions using various techniques
+- Integrate functions using different methods
+- Apply calculus to solve real-world problems
+- Understand limits, continuity, and derivative rules
+
+#Slide: 4
+#Header: Basics of Calculus
+#Content: 
+- Definition of calculus
+- Importance of calculus in mathematics and science
+- Difference between differential and integral calculus
+
+#Slide: 5
+#Header: Differentiation
+#Content: 
+- Definition of differentiation
+- Derivative notation and symbols
+- Differentiation rules (power rule, product rule, chain rule)
+- Examples and practice problems
+
+#Slide: 6
+#Header: Integration
+#Content: 
+- Definition of integration
+- Indefinite and definite integrals
+- Integration rules (power rule, substitution, integration by parts)
+- Examples and practice problems
+
+#Slide: 7
+#Header: Applications of Calculus
+#Content: 
+- Calculus in physics (motion, force, energy)
+- Calculus in economics (supply and demand, cost functions)
+- Calculus in biology (population growth, modeling)
+- Calculus in engineering (optimization, fluid dynamics)
+
+#Slide: 8
+#Header: Limits
+#Content: 
+- Definition of limit
+- Limit notation and symbols
+- Evaluating limits algebraically and graphically
+- Examples and practice problems
+
+#Slide: 9
+#Header: Continuity
+#Content: 
+- Definition of continuity
+- Identifying points of discontinuity
+- Continuity rules and the intermediate value theorem
+- Examples and practice problems
+
+#Slide: 10
+#Header: Derivative Rules
+#Content: 
+- Recap of derivative rules
+- Higher derivatives and applications
+- Differentiating trigonometric, logarithmic, and exponential functions
+- Examples and practice problems
+
+#Slide: 11
+#Header: Anti-Derivatives
+#Content: 
+- Definition of an anti-derivative
+- Reverse of differentiation
+- Finding anti-derivatives using power rule and integration
+- Examples and practice problems
+
+#Slide: 12
+#Header: Fundamental Theorem of Calculus
+#Content: 
+- Statement of the fundamental theorem of calculus
+- Relationship between differentiation and integration
+- Using the fundamental theorem to evaluate definite integrals
+- Examples and practice problems
+
+#Slide: 13
+#Header: Summary
+#Content: 
+- Reviewed basics of calculus
+- Explored differentiation and integration techniques
+- Discussed applications of calculus in various fields
+- Covered limits, continuity, and derivative rules
+- Explained anti-derivatives and the fundamental theorem of calculus
+
+#Slide: END

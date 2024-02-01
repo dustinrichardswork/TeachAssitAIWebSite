@@ -1,0 +1,27 @@
+Slide 1: Introduction to Angular 
+Content: 
+- Brief history of Angular 
+- Overview and importance in modern web architecture 
+- Different versions and their improvements 
+Keyword: Angular Overview 
+
+Slide 2: Angular Components 
+Content: 
+- Definition and role of components 
+- Interaction between components 
+- Lifecycle hooks in components 
+Keyword: Angular Components 
+
+Slide 3: Data Binding 
+Content: 
+- Explanation of Data Binding in Angular 
+- Different types with examples: String Interpolation, Property Binding, and Event Binding 
+- Importance and advantages of Data Binding 
+Keyword: Data Binding 
+
+Slide 4: Services and Dependency Injection 
+Content: 
+- Definition of Services and Dependency Injection 
+- Role and Importance in Angular 
+- Method of creating and implementing Services 
+Keyword: Services, Dependency Injection

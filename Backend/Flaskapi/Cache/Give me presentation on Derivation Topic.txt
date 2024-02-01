@@ -1,0 +1,97 @@
+#Title: Derivation Topic
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Derivation
+2. Definition of Derivative
+3. Notation and Terminology
+4. Rules of Differentiation
+5. Applications of Derivation
+6. Higher Order Derivatives
+7. Differentiation Techniques
+8. Implicit Differentiation
+9. Related Rates
+10. Optimization
+11. Summary
+12. References
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+By the end of this presentation, students will learn:
+- The definition and notation of derivatives
+- Various rules of differentiation
+- How to find higher order derivatives
+- Differentiation techniques, including implicit differentiation
+- Applications of derivatives in related rates and optimization problems
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+After this presentation, students should be able to answer the following:
+- What is the definition of a derivative?
+- How do we determine the derivative of a function using rules?
+- How do we find higher order derivatives?
+- What are the different techniques of differentiation?
+- How do we apply derivatives to related rates and optimization problems?
+
+#Slide: 4
+#Header: Introduction to Derivation
+#Content: 
+- Derivation is a fundamental concept in calculus.
+- It allows us to find the rate of change of a function at any given point.
+- Derivatives have numerous applications in various fields.
+
+#Slide: 5
+#Header: Definition of Derivative
+#Content: 
+- The derivative of a function represents its instantaneous rate of change at any given point.
+- It is defined as the limit of the difference quotient as the interval approaches zero.
+
+#Slide: 6
+#Header: Notation and Terminology
+#Content: 
+- The derivative of a function f(x) is denoted by f'(x) or dy/dx.
+- The derivative can also be written as df(x)/dx or d/dx[f(x)].
+
+#Slide: 7
+#Header: Rules of Differentiation
+#Content: 
+- The power rule, product rule, quotient rule, and chain rule are used to differentiate functions.
+- These rules enable us to find the derivative of more complex functions.
+
+#Slide: 8
+#Header: Applications of Derivation
+#Content: 
+- Derivatives have applications in physics, economics, engineering, and more.
+- They help us analyze rates of change, motion, optimization, and graph properties, among others.
+
+#Slide: 9
+#Header: Higher Order Derivatives
+#Content: 
+- Higher order derivatives represent the derivative of a derivative.
+- Differentiation can be applied repeatedly to find second, third, and higher order derivatives.
+
+#Slide: 10
+#Header: Differentiation Techniques
+#Content: 
+- In addition to the basic rules, advanced techniques like implicit differentiation and logarithmic differentiation are used.
+- These techniques are applied when functions are not easily differentiable using standard rules.
+
+#Slide: 11
+#Header: Implicit Differentiation
+#Content: 
+- Implicit differentiation is used when the given equation cannot be easily solved for y.
+- It involves differentiating both sides of the equation with respect to x, treating y as an implicit function of x.
+
+#Slide: 12
+#Header: Summary
+#Content: 
+- Derivatives represent the rate of change or slope of a function.
+- Differentiation involves finding derivatives of functions using rules and techniques.
+- Derivatives have applications in various fields, including related rates and optimization.
+- Higher order derivatives represent derivatives of derivatives.
+- Implicit differentiation is used when the equation cannot be solved for y explicitly.
+
+#Slide: END

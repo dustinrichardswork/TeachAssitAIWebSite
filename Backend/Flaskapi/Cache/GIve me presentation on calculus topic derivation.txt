@@ -1,0 +1,66 @@
+#Title: Derivation in Calculus
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Derivation
+2. Understanding the Derivative
+3. Rules of Differentiation
+4. Derivative of Basic Functions
+5. Derivative of Trigonometric Functions
+6. Derivative of Exponential and Logarithmic Functions
+7. Derivative of Composite Functions
+8. Applications of Derivation
+9. Summary
+10. References
+
+#Slide: 2
+#Header: Learning Aims
+#Content: Students will learn the concept of derivation in calculus and how to find the derivative of different functions.
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, students will be able to:
+- Explain the concept of derivation and the importance of finding the derivative in calculus.
+- Apply the rules of differentiation to find the derivative of basic, trigonometric, exponential, logarithmic, and composite functions.
+- Solve real-life problems using the derivative.
+
+#Slide: 4
+#Header: Introduction to Derivation
+#Content: Derivation is a fundamental concept in calculus that allows us to find the rate of change of a function at any point. It helps us understand how functions behave and enables us to solve various mathematical and real-world problems.
+
+#Slide: 5
+#Header: Understanding the Derivative
+#Content: The derivative of a function represents its rate of change. It is denoted by f'(x) or dy/dx. The derivative measures the slope of the tangent line to a function at a specific point.
+
+#Slide: 6
+#Header: Rules of Differentiation
+#Content: There are several rules to find the derivative of a function, including the power rule, constant rule, product rule, quotient rule, and chain rule. These rules provide a systematic approach to differentiation.
+
+#Slide: 7
+#Header: Derivative of Basic Functions
+#Content: The derivative of basic functions such as constant functions, linear functions, quadratic functions, square root functions, and reciprocal functions can be found using the rules of differentiation.
+
+#Slide: 8
+#Header: Derivative of Trigonometric Functions
+#Content: Trigonometric functions like sine, cosine, tangent, cotangent, secant, and cosecant have specific derivatives. Learning these derivatives helps in finding the rate of change of trigonometric functions.
+
+#Slide: 9
+#Header: Derivative of Exponential and Logarithmic Functions
+#Content: Exponential and logarithmic functions have their own derivatives, which are crucial in understanding exponential growth and decay, as well as solving problems involving logarithmic functions.
+
+#Slide: 10
+#Header: Derivative of Composite Functions
+#Content: Composite functions involve chaining multiple functions together. The chain rule provides a method to find the derivative of composite functions.
+
+#Slide: 11
+#Header: Applications of Derivation
+#Content: Derivation has numerous applications in various fields such as physics, economics, biology, and engineering. It helps in solving optimization problems, determining maximum and minimum values, and analyzing rates of change.
+
+#Slide: 12
+#Headers: Summary
+#Content: In this presentation, we learned about derivation in calculus. We understood the concept of the derivative, learned various rules of differentiation, and explored the derivatives of basic, trigonometric, exponential, logarithmic, and composite functions. We also discussed the applications of derivation in real-life scenarios.
+
+#Slide: 13
+#Headers: References
+#Content: Include a list of references used for this presentation.

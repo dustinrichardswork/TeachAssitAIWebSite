@@ -1,0 +1,85 @@
+#Title: PIPELINE HOOK
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction
+2. What is a Pipeline Hook?
+3. Benefits of Pipeline Hooks
+4. Types of Pipeline Hooks
+5. Before Hook
+6. After Hook
+7. Error Hook
+8. Summary of Pipeline Hooks
+9. Sample Code
+10. Conclusion
+11. References
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+- Understand the concept of pipeline hooks
+- Learn the benefits of using pipeline hooks
+- Explore different types of pipeline hooks
+- Understand how to implement pipeline hooks in Angular
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+- What is a pipeline hook?
+- What are the benefits of using pipeline hooks?
+- What are the different types of pipeline hooks?
+- How do you implement pipeline hooks in Angular?
+
+#Slide: 4
+#Header: Introduction
+#Content: 
+- Definition of pipeline hook
+- Importance of pipeline hooks in Angular applications
+
+#Slide: 5
+#Header: What is a Pipeline Hook?
+#Content: 
+- Explanation of pipeline hooks in Angular
+- How pipeline hooks allow developers to tap into the execution cycle of a pipeline
+
+#Slide: 6
+#Header: Benefits of Pipeline Hooks
+#Content: 
+- Increased flexibility and extensibility in the application
+- Improved code reusability and maintainability
+- Enhanced debugging and error handling capabilities
+
+#Slide: 7
+#Header: Types of Pipeline Hooks
+#Content: 
+- Before hook: executed before the pipeline
+- After hook: executed after the pipeline
+- Error hook: executed when an error occurs in the pipeline
+
+#Slide: 8
+#Header: Before Hook
+#Content: 
+- Explanation of before hook
+- Use cases and examples of before hook in Angular applications
+
+#Slide: 9
+#Header: After Hook
+#Content: 
+- Explanation of after hook
+- Use cases and examples of after hook in Angular applications
+
+#Slide: 10
+#Header: Error Hook
+#Content: 
+- Explanation of error hook
+- Use cases and examples of error hook in Angular applications
+
+#Slide: 11
+#Header: Summary
+#Content: 
+- Recap of pipeline hooks and their benefits
+- Sample code to implement pipeline hooks in Angular
+- Importance of using pipeline hooks for better application development
+
+#Slide: END

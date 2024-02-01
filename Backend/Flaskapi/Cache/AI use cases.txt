@@ -1,0 +1,60 @@
+Title: AI användningsområden
+
+Slide: 1
+Header: Innehållsförteckning
+Content:
+1. Introduktion till AI
+2. Användningsområden för AI
+3. Exempel på AI i sjukvården
+4. AI i affärsvärlden
+5. Sammanfattning
+
+Slide: 2
+Header: Lärandemål
+Content:
+- Förstå vad AI är och dess grundläggande principer
+- Identifiera olika användningsområden för AI
+- Utforska hur AI används inom sjukvården och affärsvärlden
+
+Slide: 3
+Header: Målkriterier
+Content:
+- Kunna förklara vad AI är och hur det fungerar
+- Kunna lista några användningsområden för AI
+- Kunna diskutera hur AI används inom sjukvården och affärsvärlden
+
+Slide: 4
+Header: Introduktion till AI
+Content:
+- Definition av AI och dess syfte
+- Grundläggande principer och tekniker som används inom AI
+- Hur AI skiljer sig från mänskligt tänkande
+
+Slide: 5
+Header: Användningsområden för AI
+Content:
+- Exempel på olika användningsområden för AI, som självkörande bilar, röstassistenter och bildigenkänning
+- Hur AI kan förbättra effektiviteten och precisionen inom olika branscher
+
+Slide: 6
+Header: Exempel på AI i sjukvården
+Content:
+- Hur AI används för sjukdomsdiagnostik och prognos
+- Möjligheter med AI för att förbättra implementeringen av medicinsk praxis
+- Etiska överväganden som uppstår vid användningen av AI inom sjukvården
+
+Slide: 7
+Header: AI i affärsvärlden
+Content:
+- Hur AI används för prediktiv analys och marknadsföring
+- Automatisering av processer och beslutsfattande med hjälp av AI
+- Potentialen med AI för att skapa nya affärsmodeller och innovativa produkter
+
+Slide: 8
+Header: Sammanfattning
+Content:
+- Återblick på vad vi har lärt oss om AI och dess användningsområden
+- Betydelsen av AI för att lösa komplexa problem och förbättra samhället
+- Uppmuntran att utforska och engagera sig i AI som en framtidig karriärmöjlighet
+
+Slide: END

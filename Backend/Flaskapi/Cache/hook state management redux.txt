@@ -1,0 +1,82 @@
+#Title: Hook State Management Redux
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Redux
+2. What is Hook State Management?
+3. Benefits of Using Redux
+4. How Redux Works
+5. Redux Store
+6. Actions and Reducers
+7. Connecting Redux to React
+8. Setting up Redux with Hooks
+9. useSelector Hook
+10. useDispatch Hook
+11. Using Redux DevTools
+12. Best Practices for Using Redux
+13. Common Mistakes to Avoid
+14. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: In this presentation, you will learn about Redux, how to use Redux with React using hooks, and best practices for managing state using Redux.
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, you will be able to:
+- Understand the purpose and benefits of using Redux
+- Implement Redux state management in a React application using hooks
+- Use useSelector and useDispatch hooks for accessing and updating Redux state
+- Set up Redux DevTools for debugging and monitoring state changes
+- Apply best practices and avoid common mistakes when working with Redux
+
+#Slide: 4
+#Header: Introduction to Redux
+#Content: Redux is a predictable state container for JavaScript applications. It provides a centralized store for managing the state of your application, making it easier to track changes and maintain consistency.
+
+#Slide: 5
+#Header: What is Hook State Management?
+#Content: Hook state management is a way of managing state in React using the useState, useEffect, and useContext hooks. By using hooks, we can achieve a more modular and scalable approach to state management.
+
+#Slide: 6
+#Header: Benefits of Using Redux
+#Content: Using Redux offers several benefits, including:
+- Centralizing and organizing application state
+- Enabling efficient state updates and re-rendering
+- Simplifying complex state management
+- Facilitating time-travel debugging with Redux DevTools
+
+#Slide: 7
+#Header: How Redux Works
+#Content: Redux follows a strict unidirectional data flow. Actions are dispatched to modify the state in the Redux store, which then triggers the reducer functions to update the state. Components can subscribe to the store to access and display the state.
+
+#Slide: 8
+#Header: Redux Store
+#Content: The Redux store is a single JavaScript object that holds the entire application state. It can only be modified by dispatching actions, and components can access the state by subscribing to the store.
+
+#Slide: 9
+#Header: Actions and Reducers
+#Content: Actions are plain JavaScript objects that describe the changes we want to make to the state. Reducers are pure functions that take the current state and an action as input and return a new state based on the action.
+
+#Slide: 10
+#Header: Connecting Redux to React
+#Content: To connect Redux with React, we use the react-redux library. It provides a set of hooks and higher-order components that allow us to access the Redux store and dispatch actions from our components.
+
+#Slide: 11
+#Header: Setting up Redux with Hooks
+#Content: We can set up Redux with hooks by using the useSelector and useDispatch hooks provided by the react-redux library. The useSelector hook allows us to select and retrieve specific slices of state, while the useDispatch hook enables us to dispatch actions.
+
+#Slide: 12
+#Header: useSelector Hook
+#Content: The useSelector hook allows us to retrieve a specific piece of state from the Redux store. It takes a selector function as an argument, which specifies the part of the state to retrieve. When the selected state changes, the component will re-render.
+
+#Slide: 13
+#Header: useDispatch Hook
+#Content: The useDispatch hook allows us to dispatch actions from our components. It returns the dispatch function, which can be used to dispatch actions to the Redux store.
+
+#Slide: 14
+#Header: Using Redux DevTools
+#Content: Redux DevTools is a browser extension that provides powerful debugging and monitoring tools for Redux. It allows us to track state changes, time-travel through action history, and inspect the current state of the application.
+
+#Slide: END

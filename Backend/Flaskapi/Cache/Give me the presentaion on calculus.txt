@@ -1,0 +1,73 @@
+#Title: Calculus: Understanding the Fundamentals
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Calculus
+2. Differentiation
+3. Applications of Differentiation
+4. Integration
+5. Applications of Integration
+6. Differential Equations
+7. Sequences and Series
+8. Limits and Continuity
+9. The Fundamental Theorem of Calculus
+10. Summary and Conclusion
+
+#Slide: 2
+#Header: Learning Aims
+#Content: By the end of this presentation, you will learn:
+- The basic concepts of calculus
+- How to differentiate and integrate functions
+- How to apply calculus in various real-world situations
+- The importance of calculus in understanding mathematical processes
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, you will be able to answer the following questions:
+- What is the purpose and significance of calculus?
+- How do you differentiate and integrate functions?
+- How can calculus be applied to solve real-world problems?
+- What are the key principles and theorems in calculus?
+
+#Slide: 4
+#Header: Introduction to Calculus
+#Content: Calculus is a branch of mathematics that deals with change and motion. It involves differentiation, integration, and the study of limits and continuity. In this presentation, we will explore the fundamentals of calculus.
+
+#Slide: 5
+#Header: Differentiation
+#Content: Differentiation, also known as finding derivatives, is the process of determining the rate at which a function is changing at any given point. This allows us to analyze the slope, concavity, and extrema of a function.
+
+#Slide: 6
+#Header: Applications of Differentiation
+#Content: Differentiation has numerous applications in various fields such as physics, economics, and engineering. It is used to calculate velocities, solve optimization problems, and analyze growth rates, among other things.
+
+#Slide: 7
+#Header: Integration
+#Content: Integration is the process of finding the area under a curve or the accumulation of quantities over a given interval. It is the reverse process of differentiation and allows us to calculate total change or total accumulation.
+
+#Slide: 8
+#Header: Applications of Integration
+#Content: Integration has practical applications in physics, economics, and probability. It can be used to find the displacement, work done, and probability distributions, among other things.
+
+#Slide: 9
+#Header: Differential Equations
+#Content: Differential equations involve both differentiation and integration and are used to model various natural phenomena. They are essential in understanding dynamic systems and relationships between variables.
+
+#Slide: 10
+#Header: Sequences and Series
+#Content: Sequences and series are mathematical concepts that involve the sum of a sequence of numbers. They are used to analyze patterns, calculate sums, and make predictions in various mathematical and real-world contexts.
+
+#Slide: 11
+#Header: Limits and Continuity
+#Content: Limits and continuity are fundamental principles that underpin the study of calculus. They help us understand how functions behave near certain points and enable us to define derivatives and integrals.
+
+#Slide: 12
+#Header: The Fundamental Theorem of Calculus
+#Content: The Fundamental Theorem of Calculus establishes the connection between differentiation and integration. It states that differentiation and integration are inverse processes, allowing us to evaluate definite integrals and find total change.
+
+#Slide: 13
+#Header: Summary and Conclusion
+#Content: In this presentation, we explored the fundamental concepts of calculus, including differentiation, integration, limits, and applications. By understanding these concepts, you can tackle a wide range of mathematical problems and analyze real-world phenomena.
+
+#Slide: END

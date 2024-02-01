@@ -1,0 +1,67 @@
+#Title: "Hook Redux Antdesign"
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. What is Redux?
+2. What are Hooks in React?
+3. Introduction to Ant Design
+4. Using Hooks with Redux and Ant Design
+5. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+- Understand the concept of Redux and how it can be used in React applications
+- Learn about Hooks in React and their benefits
+- Explore the features and benefits of Ant Design
+- Understand how to combine Hooks, Redux, and Ant Design in a React application
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+By the end of this presentation, you should be able to answer the following questions:
+1. What is Redux and how does it work?
+2. What are Hooks in React and why are they useful?
+3. How can Ant Design enhance the user interface of a React application?
+4. How can Hooks be used in conjunction with Redux and Ant Design?
+
+#Slide: 4
+#Header: What is Redux?
+#Content: 
+- Redux is a state management library for JavaScript applications
+- It provides a centralized store to manage and update the state of an application
+- It follows a unidirectional data flow, making state management easier to understand and debug
+- Redux can be used with any JavaScript framework or library, including React
+
+#Slide: 5
+#Header: What are Hooks in React?
+#Content: 
+- Hooks are a new feature introduced in React 16.8
+- They allow you to use state and other React features without writing a class
+- Hooks provide a more concise and readable way to manage state in functional components
+- You can use built-in hooks like useState and useEffect, or create custom hooks for specific functionalities
+
+#Slide: 6
+#Header: Introduction to Ant Design
+#Content: 
+- Ant Design is a popular UI framework for React applications
+- It provides a set of high-quality components and layouts that can be easily integrated into your project
+- Ant Design follows the principles of simplicity, efficiency, and scalability
+- It offers a wide range of customizable themes and supports internationalization
+
+#Slide: 7
+#Header: Using Hooks with Redux and Ant Design
+#Content: 
+- By combining Hooks, Redux, and Ant Design, you can create powerful and feature-rich React applications
+- Hooks can be used to manage the state of your application, while Redux provides a global state management solution
+- Ant Design components can be easily integrated into your project, enhancing the user interface and user experience
+- Example code snippets and demos will showcase how to use Hooks, Redux, and Ant Design together
+
+#Slide: 8
+#Headers: Summary
+#Content: 
+- Redux is a state management library for JavaScript applications
+- Hooks in React offer a more concise and readable way to manage state in functional components
+- Ant Design is a popular UI framework for React applications, providing high-quality components and layouts
+- By combining Hooks, Redux, and Ant Design, you can create powerful and feature-rich React applications with a great user experience.

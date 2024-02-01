@@ -1,0 +1,85 @@
+#Title: React Hook Props Lifecycle
+
+#Slide: 1
+#Header: 目录 (Table of Contents)
+#Content: 1. 本次演讲内容
+2. 学习目标
+3. 成功标准
+4. 生命周期和React Hooks
+5. 使用PropTypes验证Props
+6. Mount时的Hooks
+7. Update时的Hooks
+8. Unmount时的Hooks
+9. 使用UseEffect Hook
+10. 使用UseState Hook
+11. 使用UseContext Hook
+12. 自定义Hooks
+13. 使用清理函数
+14. 总结
+
+#Slide: 2
+#Header: 学习目标 (Learning Aims)
+#Content: 通过本次演讲，你将学会：
+1. 理解React组件的生命周期和React Hooks的概念
+2. 使用PropTypes验证传入组件的Props
+3. 在不同的组件生命周期阶段使用Hooks
+4. 使用常见的Hooks，如UseEffect、UseState和UseContext
+5. 创建自定义Hooks
+6. 清理函数的使用
+
+#Slide: 3
+#Header: 成功标准 (Success Criteria)
+#Content: 在本次演讲结束后，你将能够回答以下问题：
+1. 什么是React组件的生命周期？
+2. 什么是React Hooks？
+3. 如何使用PropTypes验证传入组件的Props？
+4. 在何时使用Mount、Update和Unmount时的Hooks?
+5. 如何使用常见的Hooks，如UseEffect、UseState和UseContext？
+6. 如何创建自定义Hooks？
+7. 如何使用清理函数？
+
+#Slide: 4
+#Header: 生命周期和React Hooks (Lifecycle and React Hooks)
+#Content: 生命周期是组件在被创建、更新和删除时经历的一系列阶段。React Hooks是一种在函数组件中使用状态和其他React功能的方法。
+
+#Slide: 5
+#Header: 使用PropTypes验证Props (Validating Props using PropTypes)
+#Content: PropTypes是一种用于验证传入组件的Props的库。它可以帮助我们检测Props是否符合预期的类型和规则。
+
+#Slide: 6
+#Header: Mount时的Hooks (Hooks at Mount)
+#Content: 在组件被创建和挂载到DOM时使用的Hooks。如UseEffect可以替代生命周期方法componentDidMount。
+
+#Slide: 7
+#Header: Update时的Hooks (Hooks on Update)
+#Content: 在组件被更新时使用的Hooks。如UseEffect可以替代生命周期方法componentDidUpdate。
+
+#Slide: 8
+#Header: Unmount时的Hooks (Hooks on Unmount)
+#Content: 在组件被卸载时使用的Hooks。如UseEffect可以替代生命周期方法componentWillUnmount。
+
+#Slide: 9
+#Header: 使用UseEffect Hook (Using the UseEffect Hook)
+#Content: UseEffect是React中一个常用的Hook，它允许我们在组件渲染完成后执行副作用操作，如网络请求或订阅事件。
+
+#Slide: 10
+#Header: 使用UseState Hook (Using the UseState Hook)
+#Content: UseState是React中另一个常用的Hook，它允许我们在函数组件中使用状态。
+
+#Slide: 11
+#Header: 使用UseContext Hook (Using the UseContext Hook)
+#Content: UseContext是React中的另一个常用的Hook，它允许我们在组件中访问上下文数据。
+
+#Slide: 12
+#Header: 自定义Hooks (Custom Hooks)
+#Content: 自定义Hooks是我们可以在多个组件中共享逻辑的方法。它们允许我们将逻辑抽象为可重用的函数。
+
+#Slide: 13
+#Header: 使用清理函数 (Using Cleanup Functions)
+#Content: 在UseEffect中，我们可以返回一个函数来清理我们创建的副作用，以防止内存泄漏。
+
+#Slide: 14
+#Header: 总结 (Summary)
+#Content: 通过本次演讲，我们学习了React组件的生命周期和React Hooks的概念。我们了解了在不同的生命周期阶段使用Hooks的方法，并学习了常见的Hooks，如UseEffect、UseState和UseContext。我们还了解了如何创建自定义Hooks和使用清理函数来优化我们的代码。
+
+#Slide: END

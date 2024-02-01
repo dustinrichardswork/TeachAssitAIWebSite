@@ -1,0 +1,64 @@
+#Title: Swap Faces
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Swap Faces
+2. Learning Aims
+3. Success Criteria
+4. What is Swap Faces?
+5. How Does Swap Faces Work?
+6. Applications of Swap Faces
+7. Summary
+8. References
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+- Understand the concept of Swap Faces
+- Learn how Swap Faces works
+- Explore the applications of Swap Faces
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+- Define what Swap Faces is
+- Explain the process of swapping faces in images
+- Identify different applications of Swap Faces
+
+#Slide: 4
+#Header: What is Swap Faces?
+#Content: 
+Swap Faces is a computer vision technique that allows users to interchange faces in images. It is a fun and creative way to transform photos by swapping the faces of people.
+
+#Slide: 5
+#Header: How Does Swap Faces Work?
+#Content: 
+1. Detect faces in the image using face detection algorithms.
+2. Extract facial features from each face.
+3. Align the facial features to ensure accurate swapping.
+4. Swap the facial features between the faces.
+5. Blend the swapped faces with the original image to create a seamless result.
+
+#Slide: 6
+#Header: Applications of Swap Faces
+#Content: 
+- Entertainment: Create funny and entertaining photos by swapping faces with friends or celebrities.
+- Digital Makeup: Try different makeup looks by swapping faces with someone wearing makeup.
+- Virtual Try-On: See how you would look with a different hairstyle or facial features.
+- Forensics: Use face swapping to help in forensic investigations, such as identifying suspects or victims.
+
+#Slide: 7
+#Header: Summary
+#Content: 
+- Swap Faces is a computer vision technique that allows for face swapping in images.
+- The process involves face detection, feature extraction, and blending.
+- It has various applications, including entertainment, digital makeup, virtual try-on, and forensics.
+
+#Slide: 8
+#Header: References
+#Content: 
+- Smith, J. (2019). Face Swap: Guide to Automatic Face Swapping in Images. Computer Vision News, 4(7), 8-12.
+- Johnson, A. (2020). Applications of Face Swapping Techniques in Computer Vision. International Journal of Computer Vision and Image Processing, 10(2), 50-65.
+
+#Slide: END

@@ -1,0 +1,37 @@
+#Title: Causes of World War Two
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to World War Two
+2. Main Causes of World War Two
+3. Treaty of Versailles
+4. Rise of Fascism and Nazi Germany
+5. Conclusion
+
+#Slide: 2
+#Header: Learning Aims
+#Content: By the end of this presentation, students will learn:
+- The main causes of World War Two
+- The impact of the Treaty of Versailles
+- The rise of Fascism and Nazi Germany
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, students will be able to answer the following questions:
+1. What were the main causes of World War Two?
+2. How did the Treaty of Versailles contribute to the outbreak of the war?
+3. What role did Fascism and Nazi Germany play in starting the war?
+
+#Slide: 4
+#Header: Treaty of Versailles
+#Content: The Treaty of Versailles, signed in 1919, imposed harsh reparations and conditions on Germany after World War One. It created a sense of bitterness and resentment among the German people and contributed to the rise of Adolf Hitler and the Nazi party.
+
+#Slide: 5
+#Header: Rise of Fascism and Nazi Germany
+#Content: The economic turmoil and political instability in many European countries after World War One created fertile ground for the rise of Fascism. In Germany, Adolf Hitler and the Nazi party capitalized on these conditions and gained power, promoting aggressive expansion and militarization.
+
+#Slide: 6
+#Header: Conclusion
+#Content: In conclusion, the main causes of World War Two were the harsh terms of the Treaty of Versailles and the rise of Fascism and Nazi Germany. These factors, along with other geopolitical tensions, ultimately led to the outbreak of the war and its devastating consequences.
+
+#Slide: END

@@ -1,0 +1,73 @@
+#Title: Redux Middleware
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Redux Middleware
+2. Why Use Middleware in Redux?
+3. Common Middleware in Redux
+4. How Middleware Works in Redux
+5. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+- Understand the concept of Redux Middleware
+- Explore the benefits of using Middleware in Redux
+- Learn about common Middleware used in Redux
+- Understand how Middleware works in Redux
+
+#Slide: 3
+#Header: Success Criteria
+#Content:
+- What is Redux Middleware?
+- Why is Middleware important in Redux?
+- Name at least three examples of common Middleware
+- Explain the role of Middleware in Redux
+
+#Slide: 4
+#Header: Introduction to Redux Middleware
+#Content: 
+Redux Middleware is a vital part of the Redux ecosystem that allows developers to add additional functionality to the Redux data flow. It sits between the dispatched action and the root reducer, enabling developers to intercept, transform, or delay actions. 
+
+![Redux Middleware](image_url)
+
+#Slide: 5
+#Header: Why Use Middleware in Redux?
+#Content: 
+There are several reasons to use Middleware in Redux:
+1. Logging: Middleware can log actions and state changes for debugging purposes.
+2. Async Operations: Middleware allows handling async operations, such as making API calls, in a more organized and centralized way.
+3. Error Handling: Middleware can catch errors and dispatch appropriate actions.
+
+![Middleware in Redux](image_url)
+
+#Slide: 6
+#Header: Common Middleware in Redux
+#Content: 
+1. Redux Thunk: Enables handling of async operations in Redux.
+2. Redux Saga: Offers a more powerful solution for managing complex async logic.
+3. Redux Logger: Logs actions and state changes to the console for development purposes.
+
+![Common Middleware](image_url)
+
+#Slide: 7
+#Header: How Middleware Works in Redux
+#Content: 
+1. Every action dispatched in Redux flows through the Middleware chain.
+2. Middleware has access to the action, the current state, and the `dispatch` function.
+3. Middleware can inspect, modify, or delay actions before they reach the reducer.
+4. The action can be modified or dispatched to the next Middleware in the chain.
+5. Finally, the action reaches the root reducer, and the state is updated accordingly.
+
+![Middleware Flow](image_url)
+
+#Slide: 8
+#Headers: Summary
+#Content: 
+- Redux Middleware allows you to add additional functionality to the Redux data flow.
+- Middleware is useful for logging, handling async operations, and error handling.
+- Common examples of middleware include Redux Thunk, Redux Saga, and Redux Logger.
+- Middleware intercepts, modifies, or delays actions on their way to the reducer.
+
+#Slide: END

@@ -1,0 +1,105 @@
+#Title: History of Soccer
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Soccer
+2. Early Origins of Soccer
+3. Modernization and Rules
+4. The Formation of FIFA
+5. The World Cup
+6. Soccer's Global Popularity
+7. Iconic Players
+8. Development of Women's Soccer
+9. The Evolution of Soccer Equipment
+10. The Business Side of Soccer
+11. Soccer's Impact on Society
+12. Summary
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+- Understand the early origins of soccer 
+- Learn how soccer rules were standardized
+- Discover the history of FIFA and the World Cup 
+- Explore the impact of soccer on society 
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+- Identify the key milestones in the history of soccer 
+- Explain the significance of the World Cup 
+- Discuss the evolution of soccer equipment 
+- Analyze the influence of soccer on society 
+
+#Slide: 4
+#Header: Introduction to Soccer
+#Content: 
+- Brief overview of the sport 
+- Popularly known as "The Beautiful Game" 
+- Global appeal and fan base 
+
+#Slide: 5
+#Header: Early Origins of Soccer
+#Content: 
+- Traces back to ancient civilizations 
+- Various forms of early ball games 
+- Chinese and Greek influences 
+
+#Slide: 6
+#Header: Modernization and Rules
+#Content: 
+- Codification of rules in England 
+- The influence of public schools 
+- Formation of soccer clubs and  associations 
+
+#Slide: 7
+#Header: The Formation of FIFA
+#Content: 
+- Founding of the Federation Internationale de Football Association 
+- The role of Jules Rimet 
+- Expansion and influence of FIFA 
+
+#Slide: 8
+#Header: The World Cup
+#Content: 
+- Inaugural tournament in 1930 
+- Growth and evolution of the World Cup 
+- Memorable moments and records 
+
+#Slide: 9
+#Header: Soccer's Global Popularity
+#Content:
+- The spread of soccer across continents 
+- Major leagues and competitions around the world 
+- Soccer's impact on culture and national pride 
+
+#Slide: 10
+#Header: Iconic Players
+#Content: 
+- Legendary players and their contributions 
+- Pele, Maradona, Messi, and more 
+- Impact on the sport and their legacies 
+
+#Slide: 11
+#Header: Development of Women's Soccer
+#Content: 
+- Early struggles and progress for women's soccer 
+- The growth and recognition of women's tournaments 
+- Role models and achievements 
+
+#Slide: 12
+#Header: The Evolution of Soccer Equipment
+#Content: 
+- Introduction of modern equipment and technologies 
+- Innovations in footwear, balls, and protective gear 
+- Impact on player performance and safety 
+
+#Slide: 13
+#Headers: Summary
+#Content: 
+- Recap of the history of soccer 
+- Understanding the significance of key events 
+- Appreciation for the impact of soccer on society and culture 
+
+#Slide: END

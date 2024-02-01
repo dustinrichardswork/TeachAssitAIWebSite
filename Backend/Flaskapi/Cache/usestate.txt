@@ -1,0 +1,132 @@
+#Title: Using useState in React 
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to useState
+2. Learning Aims
+3. Success Criteria
+4. What is useState?
+5. Syntax of useState
+6. Examples of useState
+7. Updating State
+8. Setting Initial State
+9. Multiple useState Hooks
+10. Key Points to Remember
+11. Exercise: Implementing useState
+12. Exercise: Updating State
+13. Exercise: Setting Initial State
+14. Exercise: Multiple useState Hooks
+15. Summary
+16. Additional Resources
+17. Questions
+
+#Slide: 2
+#Header: Learning Aims
+#Content: By the end of this presentation, students will learn:
+- What useState is and how it works in React
+- How to use useState to manage state in functional components
+- How to update state using useState
+- How to set initial state using useState
+- How to use multiple useState hooks in a component
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, students will be able to answer:
+1. What is useState in React and why is it used?
+2. What is the syntax of useState?
+3. How can you update state using useState?
+4. How do you set initial state using useState?
+5. How can you use multiple useState hooks in a component?
+
+#Slide: 4
+#Header: What is useState?
+#Content: 
+- useState is a built-in hook in React that allows functional components to have state.
+- State represents the data that a component needs to keep track of and potentially update.
+- useState returns an array with two elements: the current state value and a function to update it.
+
+#Slide: 5
+#Header: Syntax of useState
+#Content: 
+- Syntax: const [state, setState] = useState(initialState)
+- state: current value of the state
+- setState: function to update the state
+- initialState: optional initial value for the state
+
+#Slide: 6
+#Header: Examples of useState
+#Content: 
+- Example 1: const [count, setCount] = useState(0)
+- Example 2: const [name, setName] = useState("")
+
+#Slide: 7
+#Header: Updating State
+#Content: 
+- To update the state, we call the setState function and pass in the new value.
+- Example: setCount(count + 1);
+
+#Slide: 8
+#Header: Setting Initial State
+#Content: 
+- We can set an initial state value by passing it as an argument to useState.
+- Example: const [count, setCount] = useState(0);
+
+#Slide: 9
+#Header: Multiple useState Hooks
+#Content: 
+- We can have multiple useState hooks in a single component to manage different pieces of state.
+- Example: const [count, setCount] = useState(0); 
+           const [name, setName] = useState("");
+
+#Slide: 10
+#Header: Key Points to Remember
+#Content: 
+- useState is used to manage state in functional components.
+- Syntax: const [state, setState] = useState(initialState)
+- State can be updated using the setState function.
+- Initial state can be set by passing it as an argument to useState.
+- Multiple useState hooks can be used in a single component.
+
+#Slide: 11
+#Header: Exercise: Implementing useState
+#Content: 
+- Implement a simple counter using useState.
+- Set the initial value to 0.
+- Display the current count on the screen.
+- Add buttons to increment and decrement the count.
+
+#Slide: 12
+#Header: Exercise: Updating State
+#Content: 
+- Modify the previous exercise to update the count by 5 instead of 1 when the increment button is clicked.
+
+#Slide: 13
+#Header: Exercise: Setting Initial State
+#Content: 
+- Modify the previous exercise to set the initial count value to 10 instead of 0.
+
+#Slide: 14
+#Header: Exercise: Multiple useState Hooks
+#Content: 
+- Create a form with two input fields: name and email.
+- Use useState to manage the state of both input fields.
+- Display the current values of the input fields on the screen.
+
+#Slide: 15
+#Header: Summary
+#Content: 
+- useState is a powerful hook in React for managing state in functional components.
+- It allows us to easily create and update state in a concise syntax.
+- By using useState, we can make our components more dynamic and interactive.
+
+#Slide: 16
+#Header: Additional Resources
+#Content: 
+- React documentation on useState: https://reactjs.org/docs/hooks-state.html
+- React useState tutorial: https://www.youtube.com/watch?v=w8x3EQezGuw
+
+#Slide: 17
+#Header: Questions
+#Content: 
+- If you have any questions, feel free to ask!

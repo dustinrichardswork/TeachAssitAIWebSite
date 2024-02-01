@@ -1,0 +1,81 @@
+#Title: Understanding Football: A Comprehensive Guide
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Learning Aims
+2. Success Criteria
+3. Introduction to Football
+4. Football Game Elements
+5. Football Rules
+6. Positions in Football
+7. Football Strategies 
+8. Synopsis 
+
+#Slide: 2
+#Header: Learning Aims
+#Content: Through this presentation, you will gain a comprehensive understanding of the rules, game elements, positions, and strategies in football.
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, you should be able to explain the basics of football and discuss the rules, positions, and strategies involved.
+
+#Slide: 4
+#Header: Introduction to Football
+#Content: Football is a popular team sport, played globally, where two teams compete to score the most goals by maneuvering a ball into the opposing team's goal.
+
+#Slide: 5
+#Header: The Football Field
+#Content: A football field, also known as a pitch, is finely marked with lines, circles, and goal boxes, which indicate where each team can and cannot move.
+
+#Slide: 6
+#Header: Ball Movement
+#Content: Players predominantly use their feet to move the ball. They can also use other parts of their body, except for their hands.
+
+#Slide: 7
+#Header: Rules of Football Part 1
+#Content: Each match lasts 90 minutes, divided into two halves. Offside, fouls, penalties are some common rules.
+
+#Slide: 8
+#Header: Rules of Football Part 2
+#Content: At the end of a game, if the scores are equal, a tiebreaker through extra time or penalty shootouts can be used.
+
+#Slide: 9
+#Header: Positions in Football Part 1
+#Content: A single team consists of Goalkeeper (Defensive), Defenders, Midfielders, Forwards (Offensive).
+
+#Slide: 10
+#Header: Positions in Football Part 2
+#Content: Each position has a role. Say, defenders prevent opponents from scoring, while forwards try to score.
+
+#Slide: 11
+#Header: Football Strategies Part 1
+#Content: Common strategies include attacking and defending, constantly changing based on game's progress.
+
+#Slide: 12
+#Header: Football Strategies Part 2
+#Content: Examples of strategies: Counter Attack, Possession Play, High Press, Long Ball etc.
+
+#Slide: 13
+#Header: Football Competitions
+#Content: There are several national and international football competitions like World Cup, UEFA Champions League.
+
+#Slide: 14
+#Header: Famous Footballers
+#Content: Some globally renowned footballers include Lionel Messi, Cristiano Ronaldo, and Neymar.
+
+#Slide: 15 
+#Header: The Impact of Football
+#Content: Beyond a game, football fosters team spirit, decision-making, and physical wellbeing.
+
+#Slide: 16
+#Header: How to get involved?
+#Content: Join local clubs, schools' teams or independently through casual games to get involved in football.
+
+#Slide: 17
+#Headers: Summary
+#Content: We've covered football's basics, rules, positions, strategies, and its cultural influence. Your next step could be to get involved!
+
+#Slide: 18 End
+#Headers: Thank You
+#Content: Thank you for your attention. Now, let's open the floor for any questions you may have.
+

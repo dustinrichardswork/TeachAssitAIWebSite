@@ -1,0 +1,95 @@
+#Title: Consumer Behaviour - Diminishing Marginal Utility Theory
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Consumer Behaviour
+2. Diminishing Marginal Utility Theory
+3. Law of Diminishing Marginal Utility
+4. Factors Affecting Consumer Behaviour
+5. Consumer Decision-Making Process
+6. Marketing Implications
+7. Case Studies
+8. Conclusion
+9. References
+
+#Slide: 2
+#Header: Learning Aims
+#Content: 
+1. Understand the concept of consumer behaviour
+2. Learn about the Diminishing Marginal Utility Theory
+3. Explore the factors influencing consumer behaviour
+4. Understand the consumer decision-making process
+5. Identify marketing implications based on consumer behaviour
+6. Analyze case studies related to consumer behaviour
+
+#Slide: 3
+#Header: Success Criteria
+#Content: 
+By the end of this presentation, students will be able to:
+1. Explain the concept of consumer behaviour
+2. Define Diminishing Marginal Utility Theory
+3. Identify factors that influence consumer behaviour
+4. Describe the consumer decision-making process
+5. Analyze marketing implications based on consumer behaviour
+6. Evaluate case studies related to consumer behaviour
+
+#Slide: 4
+#Header: Introduction to Consumer Behaviour
+#Content: 
+- Consumer behaviour refers to the study of how individuals make decisions to spend their available resources (time, money, effort) on consumption-related activities.
+- It involves understanding the factors that influence consumers and their decision-making process.
+
+#Slide: 5
+#Header: Diminishing Marginal Utility Theory
+#Content: 
+- Diminishing Marginal Utility Theory states that as a person consumes more units of a particular good or service, the additional utility or satisfaction derived from each additional unit decreases.
+- This theory helps us understand how consumers allocate their resources to maximize their utility.
+
+#Slide: 6
+#Header: Law of Diminishing Marginal Utility
+#Content: 
+- According to the Law of Diminishing Marginal Utility, the more of a product a consumer consumes, the less satisfaction they derive from each additional unit.
+- For example, the first slice of pizza brings great satisfaction, but the tenth slice may not bring the same level of satisfaction.
+
+#Slide: 7
+#Header: Factors Affecting Consumer Behaviour
+#Content: 
+- Psychological factors (motivation, perception, learning, beliefs)
+- Social factors (family, reference groups, culture)
+- Personal factors (age, gender, lifestyle)
+- Economic factors (income, price)
+
+#Slide: 8
+#Header: Consumer Decision-Making Process
+#Content: 
+- Problem recognition
+- Information search
+- Evaluation of alternatives
+- Purchase decision
+- Post-purchase evaluation
+
+#Slide: 9
+#Header: Marketing Implications
+#Content: 
+- Understanding consumer behaviour helps marketers create effective marketing strategies.
+- Marketers use the knowledge of consumer behaviour to segment their target market, develop unique value propositions, and create persuasive advertisement campaigns.
+
+#Slide: 10
+#Header: Case Studies
+#Content: 
+- Case studies highlighting the impact of consumer behaviour on marketing strategies and product development.
+
+#Slide: 11
+#Header: Conclusion
+#Content: 
+- Consumer behaviour is a vital aspect of marketing and understanding it can lead to successful business strategies.
+- The Diminishing Marginal Utility Theory provides insights into how consumers allocate their resources.
+- Factors influencing consumer behaviour should be considered in marketing strategies.
+
+#Slide: 12
+#Headers: References
+#Content: 
+- List of references used in the presentation.
+
+#Slide: END

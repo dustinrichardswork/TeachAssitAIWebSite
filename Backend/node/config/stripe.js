@@ -1,0 +1,6 @@
+const stripe = require('stripe')('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')
+// const stripe = require('stripe')('sk_test_51KTFAjLFLZPxO7T94Fjb0sq80k7nTMeCwZTBg0C9LRgEl0sqaVwp87d4WoSVdUAk5t07lQF2UmNZSkMy30j0TeVZ00Sq4zKsXC')
+//-========pk_live_51NLvznEfKiCSqs7H3yNsjBuJRozJQifJ1Oehs5Et0n0NAhzX62Fe10nKWexk3ZIwkwgus1Y3ypIbmcbnPJ9eNk6u00Ei70KYZL
+// sk_test_51KTFAjLFLZPxO7T94Fjb0sq80k7nTMeCwZTBg0C9LRgEl0sqaVwp87d4WoSVdUAk5t07lQF2UmNZSkMy30j0TeVZ00Sq4zKsXC');
+
+module.exports = stripe;

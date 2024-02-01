@@ -1,0 +1,76 @@
+#Title: CSS Frameworks
+
+#Slide 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to CSS Frameworks
+2. Benefits of Using CSS Frameworks
+3. Popular CSS Frameworks
+4. Responsive Design with CSS Frameworks
+5. Customization and Usability
+6. Examples of Websites using CSS Frameworks
+7. Conclusion
+8. References
+
+#Slide 2
+#Header: Learning Aims
+#Content: 
+- Understand the purpose and benefits of using CSS frameworks
+- Identify popular CSS frameworks
+- Learn how to create responsive designs using CSS frameworks
+- Understand the importance of customization and usability in CSS frameworks
+- Explore examples of websites utilizing CSS frameworks
+
+#Slide 3
+#Header: Success Criteria
+#Content: 
+- What is the purpose of CSS frameworks?
+- What are the benefits of using CSS frameworks?
+- Name some popular CSS frameworks.
+- How can CSS frameworks help in creating responsive designs?
+- Why is customization and usability important in CSS frameworks?
+- Provide examples of websites using CSS frameworks.
+
+#Slide 4
+#Header: Introduction to CSS Frameworks
+#Content: CSS frameworks are pre-prepared libraries that aim to make it easier for developers to create well-designed and responsive websites. They provide a set of pre-written CSS codes and styles which can be used as a foundation for web development.
+
+#Slide 5
+#Header: Benefits of Using CSS Frameworks
+#Content: 
+- Saves time by providing ready-made styles and components.
+- Ensures consistency in design and layout.
+- Makes website development more efficient.
+- Supports responsiveness and mobile-friendly designs.
+- Enables easier maintenance and updates.
+
+#Slide 6
+#Header: Popular CSS Frameworks
+#Content: 
+1. Bootstrap: Widely used framework with a large community and extensive documentation.
+2. Foundation: A highly customizable framework with a focus on mobile-first responsive designs.
+3. Bulma: Lightweight and easy-to-use framework with a modular approach.
+4. Materialize CSS: Implements Material Design principles and offers a range of components.
+5. Tailwind CSS: A utility-first framework that allows for rapid development and customization.
+
+#Slide 7
+#Header: Responsive Design with CSS Frameworks
+#Content: CSS frameworks provide built-in responsive grids and breakpoints, making it easier for developers to create websites that adapt to different screen sizes. This helps ensure a consistent user experience across various devices.
+
+#Slide 8
+#Header: Customization and Usability
+#Content: CSS frameworks provide customization options, allowing developers to modify styles and components to suit the requirements of their project. Usability is crucial, as frameworks should be intuitive and easy to work with, even for developers with minimal CSS knowledge.
+
+#Slide 9
+#Header: Examples of Websites using CSS Frameworks
+#Content: [INSERT IMAGE SHOWCASING EXAMPLE WEBSITES USING CSS FRAMEWORKS]
+
+#Slide 10
+#Header: Conclusion
+#Content: CSS frameworks are powerful tools for web development, offering time-saving features, responsive design capabilities, and customization options. By utilizing popular CSS frameworks, developers can create visually appealing and user-friendly websites more efficiently.
+
+#Slide 11
+#Header: References
+#Content: [INSERT LIST OF REFERENCES HERE]
+
+#Slide: END

@@ -1,0 +1,28 @@
+.disabled-button {
+    position: relative;
+    display: inline-block;
+    border: none;
+    cursor: not-allowed;
+}
+
+/* .disabled-button:before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: red;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+  } */
+
+/* .disabled-button:after {
+    content: '';
+    position: absolute;
+    width: 2px;
+    height: 100%;
+    background-color: red;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  } */

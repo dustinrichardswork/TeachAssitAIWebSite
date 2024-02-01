@@ -1,0 +1,90 @@
+#Title: Derivatives in Calculus
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 
+1. Introduction to Derivatives
+2. Definition of a Derivative
+3. Notation and Terminology
+4. Basic Derivative Rules
+5. Derivatives of Elementary Functions
+6. Higher Order Derivatives
+7. Applications of Derivatives
+8. Optimization Problems
+9. Related Rates Problems
+10. Curve Sketching
+11. Anti-Derivatives
+12. Summary of Key Points
+13. Example Problems
+14. Practice Exercises
+15. References
+
+#Slide: 2
+#Header: Learning Aims
+#Content: By the end of this presentation, you will be able to:
+1. Understand the concept of derivatives in calculus.
+2. Differentiate functions using the definition of a derivative and basic derivative rules.
+3. Solve optimization problems, related rates problems, and curve-sketching problems using derivatives.
+4. Apply the concept of anti-derivatives in calculus.
+
+#Slide: 3
+#Header: Success Criteria
+#Content: By the end of this presentation, you will be able to answer the following questions:
+1. What is a derivative?
+2. How do you find the derivative of a function using the definition of a derivative?
+3. What are the basic derivative rules?
+4. How do you differentiate elementary functions?
+5. How do you solve optimization problems using derivatives?
+6. How do you solve related rates problems using derivatives?
+7. How do you sketch the graph of a function using derivatives?
+8. What is an anti-derivative and how is it used?
+
+#Slide: 4
+#Header: Introduction to Derivatives
+#Content: In calculus, derivatives are used to measure the rate of change of a function at a specific point. They help us understand how a function behaves locally and globally. Let's dive deeper into derivatives!
+
+#Slide: 5
+#Header: Definition of a Derivative
+#Content: The derivative of a function f(x) at a point x is denoted as f'(x) or dy/dx. It represents the slope of the tangent line to the graph of f at that point. The derivative can be found using the limit definition of a derivative.
+
+#Slide: 6
+#Header: Notation and Terminology
+#Content: In calculus, we use various notations and terminology to represent derivatives. We use prime notation, Leibniz notation, and Newton's notation. Additionally, terms like differentiation, differentiability, and instantaneous rate of change are commonly used.
+
+#Slide: 7
+#Header: Basic Derivative Rules
+#Content: The basic derivative rules enable us to differentiate functions easily. Some of these rules include the power rule, constant rule, sum rule, product rule, and chain rule. Understanding these rules will make differentiation simpler.
+
+#Slide: 8
+#Header: Derivatives of Elementary Functions
+#Content: Elementary functions such as polynomial, exponential, logarithmic, and trigonometric functions have specific derivative formulas. Knowing these formulas helps to compute derivatives quickly.
+
+#Slide: 9
+#Header: Higher Order Derivatives
+#Content: Derivatives of derivatives are known as higher-order derivatives. They represent the rate at which the rate of change is changing. Second-order and third-order derivatives have specific notations and interpretations.
+
+#Slide: 10
+#Header: Applications of Derivatives
+#Content: Derivatives have numerous applications in various fields, including physics, economics, and engineering. They can be used to solve optimization problems, related rates problems, curve sketching problems, and more.
+
+#Slide: 11
+#Header: Optimization Problems
+#Content: Optimization problems involve finding the maximum or minimum value of a function within a given domain. Derivatives help us identify critical points, differentiate between local and global extrema, and solve these problems effectively.
+
+#Slide: 12
+#Header: Related Rates Problems
+#Content: Related rates problems involve finding the rate at which one variable changes with respect to another variable. Derivatives help us establish the relationship between the variables and differentiate implicitly to solve these problems.
+
+#Slide: 13
+#Header: Curve Sketching
+#Content: Curve sketching involves understanding the behavior of a function by analyzing its domain, range, intercepts, continuity, symmetry, and local extrema. Derivatives provide valuable insights into these aspects and help us sketch the graph accurately.
+
+#Slide: 14
+#Header: Anti-Derivatives
+#Content: An anti-derivative of a function represents a family of functions that, when differentiated, yield the original function. Integration is the reverse process of differentiation and allows us to find anti-derivatives. It has applications in finding areas under curves and solving differential equations.
+
+#Slide: 15
+#Header: Summary
+#Content: In this presentation, we explored the concept of derivatives in calculus. We discussed the definition of a derivative, basic derivative rules, derivatives of elementary functions, applications of derivatives, and the concept of anti-derivatives. By understanding these concepts and techniques, you will be able to solve a wide range of calculus problems involving derivatives. Keep practicing and exploring the world of calculus!
+
+#Slide: END

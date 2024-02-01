@@ -1,0 +1,81 @@
+#Title: A Historical Journey through Turkey
+
+#Slide: 1
+#Header: Table of Contents
+#Content: 1. Introduction to Turkey
+2. Ancient Civilizations 
+3. Byzantine Empire
+4. Ottoman Empire
+5. Republic Period
+6. Modern Turkey
+...
+
+#Slide: 2
+#Header: LEARNING AIMS
+#Content: Understand Turkey's historical development, get familiar with significant periods and events.
+
+#Slide: 3
+#Header: SUCCESS CRITERIA
+#Content: Identify key periods in Turkish history, explain the impact on modern day Turkey.
+
+#Slide: 4
+#Header: Introduction to Turkey
+#Content: Turkey, a country at the crossroads of Europe and Asia, has a rich historical heritage.
+
+#Slide: 5
+#Header: Ancient Civilizations
+#Content: From Hittites to Romans, many civilizations flourished in the land now known as Turkey.
+
+#Slide: 6
+#Header: Byzantine Empire
+#Content: It succeeded the Roman Empire and lasted more than a thousand years.
+
+#Slide: 7
+#Header: Byzantine Art & Architecture
+#Content: Byzantine Empire left an indelible mark on art and architecture.
+
+#Slide: 8
+#Header: Introduction to Ottoman Empire
+#Content: Rising in 1299, the Ottoman Empire was a global power for centuries.
+
+#Slide: 9
+#Header: Expansion of Ottoman Empire
+#Content: The Empire grew drastically under Sultan Mehmet, conquering Constantinople in 1453.
+
+#Slide: 10
+#Header: Ottoman Administration & Culture
+#Content: The Empire was noted for its culture, law, and administration system.
+
+#Slide: 11
+#Header: end of Ottoman Empire
+#Content: The Empire fell after World War I, leading to the foundation of the Republic of Turkey.
+
+#Slide: 12
+#Header: Republic Period
+#Content: Marked by reforms and modernization, the Republic was founded by Mustafa Kemal Atatürk in 1923.
+
+#Slide: 13
+#Header: Modern Turkey
+#Content: Modern Turkey continued its development while navigating regional and global events.
+
+#Slide: 14
+#Header: Turkey Today
+#Content: Explore Turkey's current standing in the world and its geopolitical significance.
+
+#Slide: 15
+#Header: Quiz Time
+#Content: Short quiz to understand your knowledge of Turkish History.
+
+#Slide: 16
+#Headers: Quiz Answers
+#Content: Revealing answers and additional interesting trivia.
+
+#Slide: 17
+#Headers: Summary
+#Content: Recap of Turkey's history, emphasizing key events and their significance in shaping modern Turkey.
+
+#Slide: 18
+#Headers: Final Thoughts & Discussion
+#Content: Reflection on what we learnt, open floor for any questions and discussions. 
+
+#Slide: END

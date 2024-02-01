@@ -1,0 +1,40 @@
+Slide 1: Introduction to Redux /n Content: /n 
+- Explanation of Redux as a predictable state container 
+- Importance of Redux in large scale applications 
+- Basic concepts behind Redux 
+Keyword: /n Redux Introduction 
+
+Slide 2: Understanding State /n Content: /n 
+- Meaning of the term 'State' in Redux
+- Importance and role of 'State' 
+- Ways of managing 'State' in Redux
+Keyword: /n State Management 
+
+Slide 3: Redux Actions /n Content: /n 
+- Detailed insight into Redux actions
+- How actions interact with the Redux store 
+- Importance of Actions in triggering state changes 
+Keyword: /n Redux Actions 
+
+Slide 4: Reducers in Redux /n Content: /n 
+- Detailed description of reducers
+- Role of reducers in the state update mechanism 
+- Principles of reducers 
+Keyword: /n Redux Reducers 
+
+Slide 5: Redux Store /n Content: /n 
+- Explanation of what the Redux store is 
+- How the Redux store encapsulates state, actions, and reducers
+- Role and importance of Store in Redux
+Keyword: /n Redux Store 
+
+Slide 6: Introduction to Props /n Content: /n 
+- Definition and understanding of props in Redux 
+- Importance of props in passing data 
+- How props are used in Redux 
+Keyword: /n Redux Props 
+
+Slide 7: Redux Workflow /n Content: /n 
+- A step-by-step breakdown of the Redux workflow 
+- How state, actions, reducers, and props work together 
+Keyword: /n Redux Workflow
